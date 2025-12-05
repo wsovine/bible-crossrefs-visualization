@@ -1,0 +1,424 @@
+/* Main scrollytelling layout styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: var(--font-size-base);
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--bg-dark);
+    color: var(--color-text);
+    line-height: 1.6;
+}
+
+/* Fixed graphic container - stays in place while content scrolls */
+.scroll__graphic--fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: calc(100% - var(--text-width));
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-darker);
+    z-index: 1;
+}
+
+/* Scrollable content container */
+.scroll__content {
+    position: relative;
+    width: var(--text-width);
+    max-width: var(--text-max-width);
+    margin-left: 0;
+    padding: 0 var(--spacing-md) 0 var(--spacing-sm);
+    z-index: 10;
+}
+
+/* Scrollytelling section layout */
+.scroll-section {
+    position: relative;
+    min-height: 50vh;
+}
+
+/* Text column - no longer needed with new layout */
+.scroll__text {
+    position: relative;
+    width: var(--text-width);
+    max-width: var(--text-max-width);
+    padding: 0 var(--spacing-sm);
+    z-index: 10;
+}
+
+/* Individual scroll steps */
+.step {
+    min-height: var(--step-height);
+    padding: var(--text-padding);
+    margin-bottom: var(--spacing-md);
+    opacity: 0.3;
+    transition: opacity var(--transition-normal);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.step.is-active {
+    opacity: 1;
+}
+
+/* Step content styling */
+.step h1 {
+    font-size: var(--font-size-h1);
+    margin-bottom: var(--spacing-md);
+    color: var(--color-text);
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.step h2 {
+    font-size: var(--font-size-h2);
+    margin-bottom: var(--spacing-sm);
+    color: var(--color-text);
+    font-weight: 600;
+}
+
+.step h3 {
+    font-size: var(--font-size-h3);
+    margin-bottom: var(--spacing-xs);
+    color: var(--color-text-muted);
+    font-weight: 500;
+}
+
+.step p {
+    font-size: var(--font-size-base);
+    color: var(--color-text-muted);
+    margin-bottom: var(--spacing-sm);
+}
+
+.step p:last-child {
+    margin-bottom: 0;
+}
+
+.step .quote {
+    font-style: italic;
+    font-size: var(--font-size-large);
+    color: var(--color-text);
+    line-height: 1.5;
+}
+
+.step .attribution {
+    font-size: var(--font-size-small);
+    color: var(--color-text-muted);
+    margin-top: var(--spacing-xs);
+}
+
+.step a {
+    color: var(--color-nt);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-nt);
+    transition: opacity var(--transition-fast);
+}
+
+.step a:hover {
+    opacity: 0.8;
+}
+
+/* Graphic column (sticky visualization) */
+.scroll__graphic {
+    flex: 1;
+    height: var(--graphic-height);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-darker);
+}
+
+.scroll__graphic--sticky {
+    position: sticky;
+    top: 0;
+}
+
+/* SVG container */
+.scroll__graphic svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+/* Arc path styles */
+.arc-path {
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: var(--arc-stroke-width);
+    transition: stroke-opacity var(--transition-normal);
+}
+
+.arc-path--ot {
+    stroke: var(--color-ot);
+    stroke-opacity: var(--arc-opacity-base);
+}
+
+.arc-path--nt {
+    stroke: var(--color-nt);
+    stroke-opacity: var(--arc-opacity-base);
+}
+
+.arc-path--active {
+    stroke-opacity: var(--arc-opacity-active);
+}
+
+.arc-path--highlight {
+    stroke-opacity: var(--arc-opacity-highlight);
+    stroke-width: var(--arc-stroke-width-highlight);
+}
+
+.arc-path--dim {
+    stroke-opacity: var(--arc-opacity-dim);
+}
+
+/* Book axis baseline */
+.baseline {
+    stroke: var(--color-text);
+    stroke-width: 1;
+    stroke-opacity: 0.5;
+}
+
+/* Book tick marks */
+.book-tick {
+    stroke: var(--color-text);
+    stroke-width: 0.5;
+    stroke-opacity: 0.5;
+}
+
+/* Book labels */
+.book-label {
+    fill: var(--color-text);
+    font-size: 8px;
+    opacity: 0.7;
+    transition: opacity var(--transition-normal);
+}
+
+/* Testament divider */
+.testament-divider {
+    stroke: var(--color-text);
+    stroke-width: 2;
+    stroke-opacity: 0.3;
+    stroke-dasharray: 5, 5;
+}
+
+.testament-label {
+    fill: var(--color-text-muted);
+    font-size: 11px;
+    font-weight: 500;
+    opacity: 0.6;
+}
+
+/* Reference count badge */
+.ref-count {
+    display: inline-block;
+    background-color: var(--bg-card);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: 4px;
+    font-size: var(--font-size-small);
+    color: var(--color-nt);
+    margin-top: var(--spacing-xs);
+}
+
+/* Legend */
+.legend {
+    position: absolute;
+    top: var(--spacing-md);
+    right: var(--spacing-md);
+    background-color: var(--bg-dark);
+    padding: var(--spacing-sm);
+    border-radius: 4px;
+    border: 1px solid var(--color-text-dim);
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-xs);
+    font-size: var(--font-size-small);
+}
+
+.legend-item:last-child {
+    margin-bottom: 0;
+}
+
+.legend-swatch {
+    width: 20px;
+    height: 3px;
+    margin-right: var(--spacing-xs);
+    border-radius: 2px;
+}
+
+.legend-swatch--ot {
+    background-color: var(--color-ot);
+}
+
+.legend-swatch--nt {
+    background-color: var(--color-nt);
+}
+
+/* Annotations */
+.annotation {
+    fill: var(--color-text);
+    font-size: 10px;
+    opacity: 0.7;
+}
+
+/* Glow effect for highlighted books */
+.book-highlight {
+    filter: drop-shadow(0 0 8px var(--color-accent));
+}
+
+/* Deuterocanonical book highlighting */
+.deuterocanonical {
+    stroke: var(--color-deuterocanonical);
+}
+
+.deuterocanonical-highlight {
+    filter: drop-shadow(0 0 6px var(--color-deuterocanonical));
+}
+
+/* Verses carousel */
+.verses-carousel {
+    margin-top: var(--spacing-md);
+    position: relative;
+}
+
+.carousel-track {
+    display: flex;
+    gap: var(--spacing-sm);
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-text-dim) transparent;
+    padding-bottom: var(--spacing-sm);
+}
+
+.carousel-track::-webkit-scrollbar {
+    height: 6px;
+}
+
+.carousel-track::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.carousel-track::-webkit-scrollbar-thumb {
+    background-color: var(--color-text-dim);
+    border-radius: 3px;
+}
+
+.carousel-indicator {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: var(--spacing-xs);
+    font-size: 0.7rem;
+    color: var(--color-text-dim);
+}
+
+.carousel-hint {
+    opacity: 0.7;
+}
+
+.carousel-count {
+    opacity: 0.5;
+}
+
+/* Verse card (carousel item) */
+.verse-card {
+    flex: 0 0 auto;
+    width: 280px;
+    min-width: 280px;
+    padding: var(--spacing-sm);
+    background-color: var(--bg-card);
+    border-radius: 6px;
+    scroll-snap-align: start;
+}
+
+/* OT section: source is OT (blue), targets are NT (gold) */
+.verse-card--ot {
+    border-left: 3px solid var(--color-ot);
+}
+
+.verse-card--ot .source-verse .verse-ref {
+    color: var(--color-ot);
+}
+
+.verse-card--ot .target-verse .verse-ref {
+    color: var(--color-nt);
+}
+
+/* NT section: source is NT (gold), targets are OT (blue) */
+.verse-card--nt {
+    border-left: 3px solid var(--color-nt);
+}
+
+.verse-card--nt .source-verse .verse-ref {
+    color: var(--color-nt);
+}
+
+.verse-card--nt .target-verse .verse-ref {
+    color: var(--color-ot);
+}
+
+.source-verse {
+    margin-bottom: var(--spacing-sm);
+}
+
+.source-verse .verse-ref {
+    display: block;
+    font-size: var(--font-size-small);
+    font-weight: 600;
+    margin-bottom: var(--spacing-xs);
+}
+
+.source-verse .verse-text {
+    font-size: var(--font-size-small);
+    color: var(--color-text);
+    font-style: italic;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.target-verses {
+    border-top: 1px solid var(--color-text-dim);
+    padding-top: var(--spacing-sm);
+    margin-top: var(--spacing-sm);
+}
+
+.target-verse {
+    margin-bottom: var(--spacing-sm);
+}
+
+.target-verse:last-child {
+    margin-bottom: 0;
+}
+
+.target-verse .verse-ref {
+    font-size: var(--font-size-small);
+    font-weight: 500;
+}
+
+.target-verse .passage-group {
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    margin-left: var(--spacing-xs);
+}
+
+.target-verse .verse-text {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    line-height: 1.4;
+    margin: var(--spacing-xs) 0 0 0;
+}

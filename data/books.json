@@ -1,0 +1,752 @@
+{
+  "metadata": {
+    "generated": "2025-12-04T21:18:15.473492Z",
+    "source": "LogosGraph Neo4j Database",
+    "bookCount": 73,
+    "totalVerses": 35817
+  },
+  "totalVerses": 35817,
+  "otEndPosition": 27862,
+  "ntStartPosition": 27863,
+  "deuterocanonicalBooks": [
+    "1MA",
+    "2MA",
+    "BAR",
+    "JDT",
+    "SIR",
+    "TOB",
+    "WIS"
+  ],
+  "books": [
+    {
+      "id": "GEN",
+      "name": "Genesis",
+      "order": 1,
+      "testament": "OT",
+      "startPosition": 0,
+      "endPosition": 1529,
+      "verseCount": 1530,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "EXO",
+      "name": "Exodus",
+      "order": 2,
+      "testament": "OT",
+      "startPosition": 1530,
+      "endPosition": 2740,
+      "verseCount": 1211,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "LEV",
+      "name": "Leviticus",
+      "order": 3,
+      "testament": "OT",
+      "startPosition": 2741,
+      "endPosition": 3598,
+      "verseCount": 858,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "NUM",
+      "name": "Numbers",
+      "order": 4,
+      "testament": "OT",
+      "startPosition": 3599,
+      "endPosition": 4886,
+      "verseCount": 1288,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "DEU",
+      "name": "Deuteronomy",
+      "order": 5,
+      "testament": "OT",
+      "startPosition": 4887,
+      "endPosition": 5845,
+      "verseCount": 959,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JOS",
+      "name": "Joshua",
+      "order": 6,
+      "testament": "OT",
+      "startPosition": 5846,
+      "endPosition": 6503,
+      "verseCount": 658,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JDG",
+      "name": "Judges",
+      "order": 7,
+      "testament": "OT",
+      "startPosition": 6504,
+      "endPosition": 7121,
+      "verseCount": 618,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "RUT",
+      "name": "Ruth",
+      "order": 8,
+      "testament": "OT",
+      "startPosition": 7122,
+      "endPosition": 7206,
+      "verseCount": 85,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1SA",
+      "name": "1 Samuel",
+      "order": 9,
+      "testament": "OT",
+      "startPosition": 7207,
+      "endPosition": 8017,
+      "verseCount": 811,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2SA",
+      "name": "2 Samuel",
+      "order": 10,
+      "testament": "OT",
+      "startPosition": 8018,
+      "endPosition": 8712,
+      "verseCount": 695,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1KI",
+      "name": "1 Kings",
+      "order": 11,
+      "testament": "OT",
+      "startPosition": 8713,
+      "endPosition": 9529,
+      "verseCount": 817,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2KI",
+      "name": "2 Kings",
+      "order": 12,
+      "testament": "OT",
+      "startPosition": 9530,
+      "endPosition": 10248,
+      "verseCount": 719,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1CH",
+      "name": "1 Chronicles",
+      "order": 13,
+      "testament": "OT",
+      "startPosition": 10249,
+      "endPosition": 11188,
+      "verseCount": 940,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2CH",
+      "name": "2 Chronicles",
+      "order": 14,
+      "testament": "OT",
+      "startPosition": 11189,
+      "endPosition": 12010,
+      "verseCount": 822,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "EZR",
+      "name": "Ezra",
+      "order": 15,
+      "testament": "OT",
+      "startPosition": 12011,
+      "endPosition": 12290,
+      "verseCount": 280,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "NEH",
+      "name": "Nehemiah",
+      "order": 16,
+      "testament": "OT",
+      "startPosition": 12291,
+      "endPosition": 12694,
+      "verseCount": 404,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "TOB",
+      "name": "Tobit",
+      "order": 17,
+      "testament": "OT",
+      "startPosition": 12695,
+      "endPosition": 12992,
+      "verseCount": 298,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "JDT",
+      "name": "Judith",
+      "order": 18,
+      "testament": "OT",
+      "startPosition": 12993,
+      "endPosition": 13338,
+      "verseCount": 346,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "EST",
+      "name": "Esther",
+      "order": 19,
+      "testament": "OT",
+      "startPosition": 13339,
+      "endPosition": 13613,
+      "verseCount": 275,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1MA",
+      "name": "1 Maccabees",
+      "order": 20,
+      "testament": "OT",
+      "startPosition": 13614,
+      "endPosition": 14542,
+      "verseCount": 929,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "2MA",
+      "name": "2 Maccabees",
+      "order": 21,
+      "testament": "OT",
+      "startPosition": 14543,
+      "endPosition": 15100,
+      "verseCount": 558,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "JOB",
+      "name": "Job",
+      "order": 22,
+      "testament": "OT",
+      "startPosition": 15101,
+      "endPosition": 16170,
+      "verseCount": 1070,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "PSA",
+      "name": "Psalms",
+      "order": 23,
+      "testament": "OT",
+      "startPosition": 16171,
+      "endPosition": 18701,
+      "verseCount": 2531,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "PRO",
+      "name": "Proverbs",
+      "order": 24,
+      "testament": "OT",
+      "startPosition": 18702,
+      "endPosition": 19616,
+      "verseCount": 915,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "ECC",
+      "name": "Ecclesiastes",
+      "order": 25,
+      "testament": "OT",
+      "startPosition": 19617,
+      "endPosition": 19838,
+      "verseCount": 222,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "SNG",
+      "name": "Song of Solomon",
+      "order": 26,
+      "testament": "OT",
+      "startPosition": 19839,
+      "endPosition": 19954,
+      "verseCount": 116,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "WIS",
+      "name": "Wisdom",
+      "order": 27,
+      "testament": "OT",
+      "startPosition": 19955,
+      "endPosition": 20393,
+      "verseCount": 439,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "SIR",
+      "name": "Sirach",
+      "order": 28,
+      "testament": "OT",
+      "startPosition": 20394,
+      "endPosition": 21985,
+      "verseCount": 1592,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "ISA",
+      "name": "Isaiah",
+      "order": 29,
+      "testament": "OT",
+      "startPosition": 21986,
+      "endPosition": 23278,
+      "verseCount": 1293,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JER",
+      "name": "Jeremiah",
+      "order": 30,
+      "testament": "OT",
+      "startPosition": 23279,
+      "endPosition": 24641,
+      "verseCount": 1363,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "LAM",
+      "name": "Lamentations",
+      "order": 31,
+      "testament": "OT",
+      "startPosition": 24642,
+      "endPosition": 24795,
+      "verseCount": 154,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "BAR",
+      "name": "Baruch",
+      "order": 32,
+      "testament": "OT",
+      "startPosition": 24796,
+      "endPosition": 25008,
+      "verseCount": 213,
+      "isDeuterocanonical": true
+    },
+    {
+      "id": "EZK",
+      "name": "Ezekiel",
+      "order": 33,
+      "testament": "OT",
+      "startPosition": 25009,
+      "endPosition": 26280,
+      "verseCount": 1272,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "DAN",
+      "name": "Daniel",
+      "order": 34,
+      "testament": "OT",
+      "startPosition": 26281,
+      "endPosition": 26811,
+      "verseCount": 531,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "HOS",
+      "name": "Hosea",
+      "order": 35,
+      "testament": "OT",
+      "startPosition": 26812,
+      "endPosition": 27009,
+      "verseCount": 198,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JOL",
+      "name": "Joel",
+      "order": 36,
+      "testament": "OT",
+      "startPosition": 27010,
+      "endPosition": 27082,
+      "verseCount": 73,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "AMO",
+      "name": "Amos",
+      "order": 37,
+      "testament": "OT",
+      "startPosition": 27083,
+      "endPosition": 27229,
+      "verseCount": 147,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "OBA",
+      "name": "Obadiah",
+      "order": 38,
+      "testament": "OT",
+      "startPosition": 27230,
+      "endPosition": 27250,
+      "verseCount": 21,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JON",
+      "name": "Jonah",
+      "order": 39,
+      "testament": "OT",
+      "startPosition": 27251,
+      "endPosition": 27298,
+      "verseCount": 48,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "MIC",
+      "name": "Micah",
+      "order": 40,
+      "testament": "OT",
+      "startPosition": 27299,
+      "endPosition": 27402,
+      "verseCount": 104,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "NAM",
+      "name": "Nahum",
+      "order": 41,
+      "testament": "OT",
+      "startPosition": 27403,
+      "endPosition": 27449,
+      "verseCount": 47,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "HAB",
+      "name": "Habakkuk",
+      "order": 42,
+      "testament": "OT",
+      "startPosition": 27450,
+      "endPosition": 27505,
+      "verseCount": 56,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "ZEP",
+      "name": "Zephaniah",
+      "order": 43,
+      "testament": "OT",
+      "startPosition": 27506,
+      "endPosition": 27558,
+      "verseCount": 53,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "HAG",
+      "name": "Haggai",
+      "order": 44,
+      "testament": "OT",
+      "startPosition": 27559,
+      "endPosition": 27596,
+      "verseCount": 38,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "ZEC",
+      "name": "Zechariah",
+      "order": 45,
+      "testament": "OT",
+      "startPosition": 27597,
+      "endPosition": 27807,
+      "verseCount": 211,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "MAL",
+      "name": "Malachi",
+      "order": 46,
+      "testament": "OT",
+      "startPosition": 27808,
+      "endPosition": 27862,
+      "verseCount": 55,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "MAT",
+      "name": "Matthew",
+      "order": 47,
+      "testament": "NT",
+      "startPosition": 27863,
+      "endPosition": 28932,
+      "verseCount": 1070,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "MRK",
+      "name": "Mark",
+      "order": 48,
+      "testament": "NT",
+      "startPosition": 28933,
+      "endPosition": 29609,
+      "verseCount": 677,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "LUK",
+      "name": "Luke",
+      "order": 49,
+      "testament": "NT",
+      "startPosition": 29610,
+      "endPosition": 30760,
+      "verseCount": 1151,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JHN",
+      "name": "John",
+      "order": 50,
+      "testament": "NT",
+      "startPosition": 30761,
+      "endPosition": 31640,
+      "verseCount": 880,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "ACT",
+      "name": "Acts",
+      "order": 51,
+      "testament": "NT",
+      "startPosition": 31641,
+      "endPosition": 32644,
+      "verseCount": 1004,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "ROM",
+      "name": "Romans",
+      "order": 52,
+      "testament": "NT",
+      "startPosition": 32645,
+      "endPosition": 33077,
+      "verseCount": 433,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1CO",
+      "name": "1 Corinthians",
+      "order": 53,
+      "testament": "NT",
+      "startPosition": 33078,
+      "endPosition": 33514,
+      "verseCount": 437,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2CO",
+      "name": "2 Corinthians",
+      "order": 54,
+      "testament": "NT",
+      "startPosition": 33515,
+      "endPosition": 33770,
+      "verseCount": 256,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "GAL",
+      "name": "Galatians",
+      "order": 55,
+      "testament": "NT",
+      "startPosition": 33771,
+      "endPosition": 33919,
+      "verseCount": 149,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "EPH",
+      "name": "Ephesians",
+      "order": 56,
+      "testament": "NT",
+      "startPosition": 33920,
+      "endPosition": 34074,
+      "verseCount": 155,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "PHP",
+      "name": "Philippians",
+      "order": 57,
+      "testament": "NT",
+      "startPosition": 34075,
+      "endPosition": 34178,
+      "verseCount": 104,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "COL",
+      "name": "Colossians",
+      "order": 58,
+      "testament": "NT",
+      "startPosition": 34179,
+      "endPosition": 34273,
+      "verseCount": 95,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1TH",
+      "name": "1 Thessalonians",
+      "order": 59,
+      "testament": "NT",
+      "startPosition": 34274,
+      "endPosition": 34362,
+      "verseCount": 89,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2TH",
+      "name": "2 Thessalonians",
+      "order": 60,
+      "testament": "NT",
+      "startPosition": 34363,
+      "endPosition": 34409,
+      "verseCount": 47,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1TI",
+      "name": "1 Timothy",
+      "order": 61,
+      "testament": "NT",
+      "startPosition": 34410,
+      "endPosition": 34522,
+      "verseCount": 113,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2TI",
+      "name": "2 Timothy",
+      "order": 62,
+      "testament": "NT",
+      "startPosition": 34523,
+      "endPosition": 34605,
+      "verseCount": 83,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "TIT",
+      "name": "Titus",
+      "order": 63,
+      "testament": "NT",
+      "startPosition": 34606,
+      "endPosition": 34651,
+      "verseCount": 46,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "PHM",
+      "name": "Philemon",
+      "order": 64,
+      "testament": "NT",
+      "startPosition": 34652,
+      "endPosition": 34676,
+      "verseCount": 25,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "HEB",
+      "name": "Hebrews",
+      "order": 65,
+      "testament": "NT",
+      "startPosition": 34677,
+      "endPosition": 34979,
+      "verseCount": 303,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JAS",
+      "name": "James",
+      "order": 66,
+      "testament": "NT",
+      "startPosition": 34980,
+      "endPosition": 35087,
+      "verseCount": 108,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1PE",
+      "name": "1 Peter",
+      "order": 67,
+      "testament": "NT",
+      "startPosition": 35088,
+      "endPosition": 35192,
+      "verseCount": 105,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2PE",
+      "name": "2 Peter",
+      "order": 68,
+      "testament": "NT",
+      "startPosition": 35193,
+      "endPosition": 35253,
+      "verseCount": 61,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "1JN",
+      "name": "1 John",
+      "order": 69,
+      "testament": "NT",
+      "startPosition": 35254,
+      "endPosition": 35358,
+      "verseCount": 105,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "2JN",
+      "name": "2 John",
+      "order": 70,
+      "testament": "NT",
+      "startPosition": 35359,
+      "endPosition": 35371,
+      "verseCount": 13,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "3JN",
+      "name": "3 John",
+      "order": 71,
+      "testament": "NT",
+      "startPosition": 35372,
+      "endPosition": 35386,
+      "verseCount": 15,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "JUD",
+      "name": "Jude",
+      "order": 72,
+      "testament": "NT",
+      "startPosition": 35387,
+      "endPosition": 35411,
+      "verseCount": 25,
+      "isDeuterocanonical": false
+    },
+    {
+      "id": "REV",
+      "name": "Revelation",
+      "order": 73,
+      "testament": "NT",
+      "startPosition": 35412,
+      "endPosition": 35816,
+      "verseCount": 405,
+      "isDeuterocanonical": false
+    }
+  ]
+}

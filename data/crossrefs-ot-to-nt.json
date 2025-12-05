@@ -1,0 +1,9487 @@
+{
+  "metadata": {
+    "generated": "2025-12-04T21:18:26.557385Z",
+    "source": "Haydock",
+    "direction": "OT to NT",
+    "count": 754
+  },
+  "references": [
+    {
+      "fromId": "GEN-1-2",
+      "fromBook": "GEN",
+      "fromPosition": 1,
+      "toId": "ACT-17-24",
+      "toBook": "ACT",
+      "toPosition": 32262,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-1-2",
+      "fromBook": "GEN",
+      "fromPosition": 1,
+      "toId": "ACT-14-14",
+      "toBook": "ACT",
+      "toPosition": 32144,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-1-3",
+      "fromBook": "GEN",
+      "fromPosition": 2,
+      "toId": "HEB-11-3",
+      "toBook": "HEB",
+      "toPosition": 34888,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-1-26",
+      "fromBook": "GEN",
+      "fromPosition": 25,
+      "toId": "COL-3-10",
+      "toBook": "COL",
+      "toPosition": 34240,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 70
+    },
+    {
+      "fromId": "GEN-1-26",
+      "fromBook": "GEN",
+      "fromPosition": 25,
+      "toId": "1CO-11-7",
+      "toBook": "1CO",
+      "toPosition": 33321,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "GEN-1-27",
+      "fromBook": "GEN",
+      "fromPosition": 26,
+      "toId": "MAT-19-4",
+      "toBook": "MAT",
+      "toPosition": 28483,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 73
+    },
+    {
+      "fromId": "GEN-1-31",
+      "fromBook": "GEN",
+      "fromPosition": 30,
+      "toId": "MRK-7-37",
+      "toBook": "MRK",
+      "toPosition": 29216,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-2-2",
+      "fromBook": "GEN",
+      "fromPosition": 32,
+      "toId": "HEB-4-4",
+      "toBook": "HEB",
+      "toPosition": 34731,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "GEN-2-7",
+      "fromBook": "GEN",
+      "fromPosition": 37,
+      "toId": "1CO-15-45",
+      "toBook": "1CO",
+      "toPosition": 33477,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 38
+    },
+    {
+      "fromId": "GEN-2-23",
+      "fromBook": "GEN",
+      "fromPosition": 53,
+      "toId": "EPH-5-31",
+      "toBook": "EPH",
+      "toPosition": 34048,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-2-23",
+      "fromBook": "GEN",
+      "fromPosition": 53,
+      "toId": "1CO-11-9",
+      "toBook": "1CO",
+      "toPosition": 33323,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "GEN-2-24",
+      "fromBook": "GEN",
+      "fromPosition": 54,
+      "toId": "1CO-6-16",
+      "toBook": "1CO",
+      "toPosition": 33197,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "GEN-2-24",
+      "fromBook": "GEN",
+      "fromPosition": 54,
+      "toId": "MRK-10-7",
+      "toBook": "MRK",
+      "toPosition": 29311,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 47
+    },
+    {
+      "fromId": "GEN-2-24",
+      "fromBook": "GEN",
+      "fromPosition": 54,
+      "toId": "MAT-19-5",
+      "toBook": "MAT",
+      "toPosition": 28484,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 75
+    },
+    {
+      "fromId": "GEN-3-4",
+      "fromBook": "GEN",
+      "fromPosition": 59,
+      "toId": "2CO-11-3",
+      "toBook": "2CO",
+      "toPosition": 33706,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-3-6",
+      "fromBook": "GEN",
+      "fromPosition": 61,
+      "toId": "1TI-2-14",
+      "toBook": "1TI",
+      "toPosition": 34443,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "GEN-3-15",
+      "fromBook": "GEN",
+      "fromPosition": 70,
+      "toId": "1CO-14-34",
+      "toBook": "1CO",
+      "toPosition": 33426,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-4-4",
+      "fromBook": "GEN",
+      "fromPosition": 83,
+      "toId": "HEB-11-4",
+      "toBook": "HEB",
+      "toPosition": 34889,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 24
+    },
+    {
+      "fromId": "GEN-4-8",
+      "fromBook": "GEN",
+      "fromPosition": 87,
+      "toId": "JUD-1-11",
+      "toBook": "JUD",
+      "toPosition": 35397,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-4-8",
+      "fromBook": "GEN",
+      "fromPosition": 87,
+      "toId": "MAT-23-35",
+      "toBook": "MAT",
+      "toPosition": 28670,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-4-8",
+      "fromBook": "GEN",
+      "fromPosition": 87,
+      "toId": "1JN-3-12",
+      "toBook": "1JN",
+      "toPosition": 35304,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-4-24",
+      "fromBook": "GEN",
+      "fromPosition": 103,
+      "toId": "MAT-18-22",
+      "toBook": "MAT",
+      "toPosition": 28466,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "GEN-6-5",
+      "fromBook": "GEN",
+      "fromPosition": 141,
+      "toId": "MAT-15-19",
+      "toBook": "MAT",
+      "toPosition": 28370,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 43
+    },
+    {
+      "fromId": "GEN-6-13",
+      "fromBook": "GEN",
+      "fromPosition": 149,
+      "toId": "2PE-2-5",
+      "toBook": "2PE",
+      "toPosition": 35218,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-6-13",
+      "fromBook": "GEN",
+      "fromPosition": 149,
+      "toId": "1PE-3-20",
+      "toBook": "1PE",
+      "toPosition": 35157,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-7-1",
+      "fromBook": "GEN",
+      "fromPosition": 159,
+      "toId": "HEB-11-7",
+      "toBook": "HEB",
+      "toPosition": 34892,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-7-1",
+      "fromBook": "GEN",
+      "fromPosition": 159,
+      "toId": "2PE-2-5",
+      "toBook": "2PE",
+      "toPosition": 35218,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "GEN-7-7",
+      "fromBook": "GEN",
+      "fromPosition": 165,
+      "toId": "MAT-24-37",
+      "toBook": "MAT",
+      "toPosition": 28711,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-7-7",
+      "fromBook": "GEN",
+      "fromPosition": 165,
+      "toId": "LUK-17-26",
+      "toBook": "LUK",
+      "toPosition": 30393,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-7-7",
+      "fromBook": "GEN",
+      "fromPosition": 165,
+      "toId": "1PE-3-20",
+      "toBook": "1PE",
+      "toPosition": 35157,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "GEN-7-21",
+      "fromBook": "GEN",
+      "fromPosition": 179,
+      "toId": "1PE-3-20",
+      "toBook": "1PE",
+      "toPosition": 35157,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-8-21",
+      "fromBook": "GEN",
+      "fromPosition": 203,
+      "toId": "MAT-15-19",
+      "toBook": "MAT",
+      "toPosition": 28370,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "GEN-9-4",
+      "fromBook": "GEN",
+      "fromPosition": 208,
+      "toId": "ACT-15-29",
+      "toBook": "ACT",
+      "toPosition": 32186,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "GEN-9-6",
+      "fromBook": "GEN",
+      "fromPosition": 210,
+      "toId": "MAT-26-52",
+      "toBook": "MAT",
+      "toPosition": 28823,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 15
+    },
+    {
+      "fromId": "GEN-9-6",
+      "fromBook": "GEN",
+      "fromPosition": 210,
+      "toId": "REV-13-10",
+      "toBook": "REV",
+      "toPosition": 35633,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "GEN-11-31",
+      "fromBook": "GEN",
+      "fromPosition": 296,
+      "toId": "ACT-7-2",
+      "toBook": "ACT",
+      "toPosition": 31835,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "GEN-12-1",
+      "fromBook": "GEN",
+      "fromPosition": 298,
+      "toId": "ACT-7-3",
+      "toBook": "ACT",
+      "toPosition": 31836,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 26
+    },
+    {
+      "fromId": "GEN-12-3",
+      "fromBook": "GEN",
+      "fromPosition": 300,
+      "toId": "HEB-11-8",
+      "toBook": "HEB",
+      "toPosition": 34893,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-12-3",
+      "fromBook": "GEN",
+      "fromPosition": 300,
+      "toId": "GAL-3-8",
+      "toBook": "GAL",
+      "toPosition": 33823,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 35
+    },
+    {
+      "fromId": "GEN-12-7",
+      "fromBook": "GEN",
+      "fromPosition": 304,
+      "toId": "GAL-3-16",
+      "toBook": "GAL",
+      "toPosition": 33831,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "GEN-14-18",
+      "fromBook": "GEN",
+      "fromPosition": 353,
+      "toId": "HEB-7-1",
+      "toBook": "HEB",
+      "toPosition": 34778,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-15-5",
+      "fromBook": "GEN",
+      "fromPosition": 364,
+      "toId": "ROM-4-18",
+      "toBook": "ROM",
+      "toPosition": 32754,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "GEN-15-6",
+      "fromBook": "GEN",
+      "fromPosition": 365,
+      "toId": "ROM-4-3",
+      "toBook": "ROM",
+      "toPosition": 32739,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 45
+    },
+    {
+      "fromId": "GEN-15-6",
+      "fromBook": "GEN",
+      "fromPosition": 365,
+      "toId": "GAL-3-6",
+      "toBook": "GAL",
+      "toPosition": 33821,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 56
+    },
+    {
+      "fromId": "GEN-15-6",
+      "fromBook": "GEN",
+      "fromPosition": 365,
+      "toId": "JAS-2-23",
+      "toBook": "JAS",
+      "toPosition": 35029,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 80
+    },
+    {
+      "fromId": "GEN-15-13",
+      "fromBook": "GEN",
+      "fromPosition": 372,
+      "toId": "ACT-7-6",
+      "toBook": "ACT",
+      "toPosition": 31839,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "GEN-17-9",
+      "fromBook": "GEN",
+      "fromPosition": 405,
+      "toId": "ACT-7-8",
+      "toBook": "ACT",
+      "toPosition": 31841,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-17-11",
+      "fromBook": "GEN",
+      "fromPosition": 407,
+      "toId": "LUK-2-21",
+      "toBook": "LUK",
+      "toPosition": 29710,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-17-11",
+      "fromBook": "GEN",
+      "fromPosition": 407,
+      "toId": "ROM-4-11",
+      "toBook": "ROM",
+      "toPosition": 32747,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "GEN-18-1",
+      "fromBook": "GEN",
+      "fromPosition": 424,
+      "toId": "ROM-9-9",
+      "toBook": "ROM",
+      "toPosition": 32878,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-18-12",
+      "fromBook": "GEN",
+      "fromPosition": 435,
+      "toId": "1PE-3-6",
+      "toBook": "1PE",
+      "toPosition": 35143,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "GEN-19-1",
+      "fromBook": "GEN",
+      "fromPosition": 457,
+      "toId": "2PE-2-8",
+      "toBook": "2PE",
+      "toPosition": 35221,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-19-24",
+      "fromBook": "GEN",
+      "fromPosition": 480,
+      "toId": "JUD-1-7",
+      "toBook": "JUD",
+      "toPosition": 35393,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "GEN-19-24",
+      "fromBook": "GEN",
+      "fromPosition": 480,
+      "toId": "LUK-17-29",
+      "toBook": "LUK",
+      "toPosition": 30396,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "GEN-19-26",
+      "fromBook": "GEN",
+      "fromPosition": 482,
+      "toId": "LUK-17-32",
+      "toBook": "LUK",
+      "toPosition": 30399,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-21-2",
+      "fromBook": "GEN",
+      "fromPosition": 514,
+      "toId": "GAL-4-23",
+      "toBook": "GAL",
+      "toPosition": 33867,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-21-2",
+      "fromBook": "GEN",
+      "fromPosition": 514,
+      "toId": "HEB-11-11",
+      "toBook": "HEB",
+      "toPosition": 34896,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "GEN-21-4",
+      "fromBook": "GEN",
+      "fromPosition": 516,
+      "toId": "MAT-1-2",
+      "toBook": "MAT",
+      "toPosition": 27864,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-21-12",
+      "fromBook": "GEN",
+      "fromPosition": 524,
+      "toId": "HEB-11-18",
+      "toBook": "HEB",
+      "toPosition": 34903,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "GEN-21-12",
+      "fromBook": "GEN",
+      "fromPosition": 524,
+      "toId": "ROM-9-7",
+      "toBook": "ROM",
+      "toPosition": 32876,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "GEN-22-1",
+      "fromBook": "GEN",
+      "fromPosition": 547,
+      "toId": "HEB-11-17",
+      "toBook": "HEB",
+      "toPosition": 34902,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 28
+    },
+    {
+      "fromId": "GEN-22-10",
+      "fromBook": "GEN",
+      "fromPosition": 556,
+      "toId": "JAS-2-21",
+      "toBook": "JAS",
+      "toPosition": 35027,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "GEN-22-16",
+      "fromBook": "GEN",
+      "fromPosition": 562,
+      "toId": "HEB-6-13",
+      "toBook": "HEB",
+      "toPosition": 34770,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "GEN-22-16",
+      "fromBook": "GEN",
+      "fromPosition": 562,
+      "toId": "LUK-1-73",
+      "toBook": "LUK",
+      "toPosition": 29682,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "GEN-22-18",
+      "fromBook": "GEN",
+      "fromPosition": 564,
+      "toId": "ACT-3-25",
+      "toBook": "ACT",
+      "toPosition": 31738,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 24
+    },
+    {
+      "fromId": "GEN-25-23",
+      "fromBook": "GEN",
+      "fromPosition": 680,
+      "toId": "ROM-9-10",
+      "toBook": "ROM",
+      "toPosition": 32879,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "GEN-25-30",
+      "fromBook": "GEN",
+      "fromPosition": 687,
+      "toId": "HEB-12-16",
+      "toBook": "HEB",
+      "toPosition": 34941,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-27-38",
+      "fromBook": "GEN",
+      "fromPosition": 764,
+      "toId": "HEB-11-20",
+      "toBook": "HEB",
+      "toPosition": 34905,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-29-35",
+      "fromBook": "GEN",
+      "fromPosition": 829,
+      "toId": "MAT-1-2",
+      "toBook": "MAT",
+      "toPosition": 27864,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "GEN-38-27",
+      "fromBook": "GEN",
+      "fromPosition": 1145,
+      "toId": "MAT-1-3",
+      "toBook": "MAT",
+      "toPosition": 27865,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-41-16",
+      "fromBook": "GEN",
+      "fromPosition": 1210,
+      "toId": "MAT-10-20",
+      "toBook": "MAT",
+      "toPosition": 28155,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-41-40",
+      "fromBook": "GEN",
+      "fromPosition": 1234,
+      "toId": "ACT-7-10",
+      "toBook": "ACT",
+      "toPosition": 31843,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "GEN-45-4",
+      "fromBook": "GEN",
+      "fromPosition": 1361,
+      "toId": "ACT-7-13",
+      "toBook": "ACT",
+      "toPosition": 31846,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-46-5",
+      "fromBook": "GEN",
+      "fromPosition": 1390,
+      "toId": "ACT-7-15",
+      "toBook": "ACT",
+      "toPosition": 31848,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 1
+    },
+    {
+      "fromId": "GEN-48-15",
+      "fromBook": "GEN",
+      "fromPosition": 1465,
+      "toId": "HEB-11-21",
+      "toBook": "HEB",
+      "toPosition": 34906,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "GEN-48-16",
+      "fromBook": "GEN",
+      "fromPosition": 1466,
+      "toId": "MAT-18-10",
+      "toBook": "MAT",
+      "toPosition": 28454,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-49-10",
+      "fromBook": "GEN",
+      "fromPosition": 1482,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-49-10",
+      "fromBook": "GEN",
+      "fromPosition": 1482,
+      "toId": "MAT-2-6",
+      "toBook": "MAT",
+      "toPosition": 27893,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "GEN-50-13",
+      "fromBook": "GEN",
+      "fromPosition": 1517,
+      "toId": "ACT-7-16",
+      "toBook": "ACT",
+      "toPosition": 31849,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "GEN-50-23",
+      "fromBook": "GEN",
+      "fromPosition": 1527,
+      "toId": "HEB-11-22",
+      "toBook": "HEB",
+      "toPosition": 34907,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-1-7",
+      "fromBook": "EXO",
+      "fromPosition": 1536,
+      "toId": "ACT-7-17",
+      "toBook": "ACT",
+      "toPosition": 31850,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "EXO-2-2",
+      "fromBook": "EXO",
+      "fromPosition": 1553,
+      "toId": "HEB-11-23",
+      "toBook": "HEB",
+      "toPosition": 34908,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 30
+    },
+    {
+      "fromId": "EXO-2-11",
+      "fromBook": "EXO",
+      "fromPosition": 1562,
+      "toId": "HEB-11-24",
+      "toBook": "HEB",
+      "toPosition": 34909,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "EXO-3-2",
+      "fromBook": "EXO",
+      "fromPosition": 1578,
+      "toId": "ACT-7-30",
+      "toBook": "ACT",
+      "toPosition": 31863,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 15
+    },
+    {
+      "fromId": "EXO-3-6",
+      "fromBook": "EXO",
+      "fromPosition": 1582,
+      "toId": "LUK-20-37",
+      "toBook": "LUK",
+      "toPosition": 30532,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "EXO-3-6",
+      "fromBook": "EXO",
+      "fromPosition": 1582,
+      "toId": "MAT-22-32",
+      "toBook": "MAT",
+      "toPosition": 28621,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "EXO-3-6",
+      "fromBook": "EXO",
+      "fromPosition": 1582,
+      "toId": "MRK-12-26",
+      "toBook": "MRK",
+      "toPosition": 29415,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "EXO-4-12",
+      "fromBook": "EXO",
+      "fromPosition": 1610,
+      "toId": "MAT-10-20",
+      "toBook": "MAT",
+      "toPosition": 28155,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "EXO-7-11",
+      "fromBook": "EXO",
+      "fromPosition": 1693,
+      "toId": "2TI-3-8",
+      "toBook": "2TI",
+      "toPosition": 34574,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "EXO-9-16",
+      "fromBook": "EXO",
+      "fromPosition": 1755,
+      "toId": "ROM-9-17",
+      "toBook": "ROM",
+      "toPosition": 32886,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "EXO-12-22",
+      "fromBook": "EXO",
+      "fromPosition": 1835,
+      "toId": "HEB-11-28",
+      "toBook": "HEB",
+      "toPosition": 34913,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "EXO-12-46",
+      "fromBook": "EXO",
+      "fromPosition": 1859,
+      "toId": "JHN-19-36",
+      "toBook": "JHN",
+      "toPosition": 31578,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "EXO-13-2",
+      "fromBook": "EXO",
+      "fromPosition": 1866,
+      "toId": "LUK-2-23",
+      "toBook": "LUK",
+      "toPosition": 29712,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 23
+    },
+    {
+      "fromId": "EXO-13-21",
+      "fromBook": "EXO",
+      "fromPosition": 1885,
+      "toId": "1CO-10-1",
+      "toBook": "1CO",
+      "toPosition": 33282,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 17
+    },
+    {
+      "fromId": "EXO-14-21",
+      "fromBook": "EXO",
+      "fromPosition": 1907,
+      "toId": "HEB-11-29",
+      "toBook": "HEB",
+      "toPosition": 34914,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-16-14",
+      "fromBook": "EXO",
+      "fromPosition": 1958,
+      "toId": "JHN-6-31",
+      "toBook": "JHN",
+      "toPosition": 31004,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-16-15",
+      "fromBook": "EXO",
+      "fromPosition": 1959,
+      "toId": "1CO-10-3",
+      "toBook": "1CO",
+      "toPosition": 33284,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "EXO-16-18",
+      "fromBook": "EXO",
+      "fromPosition": 1962,
+      "toId": "2CO-8-15",
+      "toBook": "2CO",
+      "toPosition": 33661,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "EXO-17-5",
+      "fromBook": "EXO",
+      "fromPosition": 1985,
+      "toId": "1CO-10-4",
+      "toBook": "1CO",
+      "toPosition": 33285,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-19-3",
+      "fromBook": "EXO",
+      "fromPosition": 2026,
+      "toId": "ACT-7-38",
+      "toBook": "ACT",
+      "toPosition": 31871,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "EXO-19-6",
+      "fromBook": "EXO",
+      "fromPosition": 2029,
+      "toId": "1PE-2-9",
+      "toBook": "1PE",
+      "toPosition": 35121,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 22
+    },
+    {
+      "fromId": "EXO-19-12",
+      "fromBook": "EXO",
+      "fromPosition": 2035,
+      "toId": "HEB-12-18",
+      "toBook": "HEB",
+      "toPosition": 34943,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-20-7",
+      "fromBook": "EXO",
+      "fromPosition": 2055,
+      "toId": "MAT-5-33",
+      "toBook": "MAT",
+      "toPosition": 27985,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "EXO-20-12",
+      "fromBook": "EXO",
+      "fromPosition": 2060,
+      "toId": "MAT-15-4",
+      "toBook": "MAT",
+      "toPosition": 28355,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "EXO-20-12",
+      "fromBook": "EXO",
+      "fromPosition": 2060,
+      "toId": "EPH-6-2",
+      "toBook": "EPH",
+      "toPosition": 34052,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 57
+    },
+    {
+      "fromId": "EXO-20-13",
+      "fromBook": "EXO",
+      "fromPosition": 2061,
+      "toId": "MAT-5-21",
+      "toBook": "MAT",
+      "toPosition": 27973,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "EXO-20-17",
+      "fromBook": "EXO",
+      "fromPosition": 2065,
+      "toId": "ROM-7-7",
+      "toBook": "ROM",
+      "toPosition": 32812,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "EXO-20-17",
+      "fromBook": "EXO",
+      "fromPosition": 2065,
+      "toId": "ROM-13-9",
+      "toBook": "ROM",
+      "toPosition": 32989,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 39
+    },
+    {
+      "fromId": "EXO-20-21",
+      "fromBook": "EXO",
+      "fromPosition": 2069,
+      "toId": "HEB-12-18",
+      "toBook": "HEB",
+      "toPosition": 34943,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-21-17",
+      "fromBook": "EXO",
+      "fromPosition": 2091,
+      "toId": "MAT-15-4",
+      "toBook": "MAT",
+      "toPosition": 28355,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "EXO-21-17",
+      "fromBook": "EXO",
+      "fromPosition": 2091,
+      "toId": "MRK-7-10",
+      "toBook": "MRK",
+      "toPosition": 29189,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "EXO-21-24",
+      "fromBook": "EXO",
+      "fromPosition": 2098,
+      "toId": "MAT-5-38",
+      "toBook": "MAT",
+      "toPosition": 27990,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "EXO-22-28",
+      "fromBook": "EXO",
+      "fromPosition": 2138,
+      "toId": "ACT-23-5",
+      "toBook": "ACT",
+      "toPosition": 32453,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "EXO-24-8",
+      "fromBook": "EXO",
+      "fromPosition": 2182,
+      "toId": "HEB-9-20",
+      "toBook": "HEB",
+      "toPosition": 34838,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "EXO-25-9",
+      "fromBook": "EXO",
+      "fromPosition": 2201,
+      "toId": "HEB-9-2",
+      "toBook": "HEB",
+      "toPosition": 34820,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-25-40",
+      "fromBook": "EXO",
+      "fromPosition": 2232,
+      "toId": "ACT-7-44",
+      "toBook": "ACT",
+      "toPosition": 31877,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "EXO-25-40",
+      "fromBook": "EXO",
+      "fromPosition": 2232,
+      "toId": "HEB-8-5",
+      "toBook": "HEB",
+      "toPosition": 34810,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "EXO-32-1",
+      "fromBook": "EXO",
+      "fromPosition": 2436,
+      "toId": "ACT-7-40",
+      "toBook": "ACT",
+      "toPosition": 31873,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "EXO-32-6",
+      "fromBook": "EXO",
+      "fromPosition": 2441,
+      "toId": "1CO-10-7",
+      "toBook": "1CO",
+      "toPosition": 33288,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "EXO-32-22",
+      "fromBook": "EXO",
+      "fromPosition": 2457,
+      "toId": "1JN-5-19",
+      "toBook": "1JN",
+      "toPosition": 35356,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EXO-33-19",
+      "fromBook": "EXO",
+      "fromPosition": 2489,
+      "toId": "ROM-9-15",
+      "toBook": "ROM",
+      "toPosition": 32884,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "EXO-34-33",
+      "fromBook": "EXO",
+      "fromPosition": 2526,
+      "toId": "2CO-3-13",
+      "toBook": "2CO",
+      "toPosition": 33568,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "LEV-2-13",
+      "fromBook": "LEV",
+      "fromPosition": 2770,
+      "toId": "MRK-9-48",
+      "toBook": "MRK",
+      "toPosition": 29303,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-5-7",
+      "fromBook": "LEV",
+      "fromPosition": 2832,
+      "toId": "LUK-2-14",
+      "toBook": "LUK",
+      "toPosition": 29703,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-6-30",
+      "fromBook": "LEV",
+      "fromPosition": 2874,
+      "toId": "HEB-13-11",
+      "toBook": "HEB",
+      "toPosition": 34965,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "LEV-11-44",
+      "fromBook": "LEV",
+      "fromPosition": 3036,
+      "toId": "1PE-1-16",
+      "toBook": "1PE",
+      "toPosition": 35103,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "LEV-12-2",
+      "fromBook": "LEV",
+      "fromPosition": 3041,
+      "toId": "LUK-2-22",
+      "toBook": "LUK",
+      "toPosition": 29711,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "LEV-12-3",
+      "fromBook": "LEV",
+      "fromPosition": 3042,
+      "toId": "JHN-7-22",
+      "toBook": "JHN",
+      "toPosition": 31067,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "LEV-12-8",
+      "fromBook": "LEV",
+      "fromPosition": 3047,
+      "toId": "LUK-2-24",
+      "toBook": "LUK",
+      "toPosition": 29713,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "LEV-14-3",
+      "fromBook": "LEV",
+      "fromPosition": 3109,
+      "toId": "MAT-8-4",
+      "toBook": "MAT",
+      "toPosition": 28067,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-14-4",
+      "fromBook": "LEV",
+      "fromPosition": 3110,
+      "toId": "LUK-5-14",
+      "toBook": "LUK",
+      "toPosition": 29837,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-14-4",
+      "fromBook": "LEV",
+      "fromPosition": 3110,
+      "toId": "MRK-1-44",
+      "toBook": "MRK",
+      "toPosition": 28976,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-14-22",
+      "fromBook": "LEV",
+      "fromPosition": 3128,
+      "toId": "LUK-2-24",
+      "toBook": "LUK",
+      "toPosition": 29713,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-16-2",
+      "fromBook": "LEV",
+      "fromPosition": 3198,
+      "toId": "HEB-9-7",
+      "toBook": "HEB",
+      "toPosition": 34825,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "LEV-16-17",
+      "fromBook": "LEV",
+      "fromPosition": 3213,
+      "toId": "LUK-1-10",
+      "toBook": "LUK",
+      "toPosition": 29619,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "LEV-16-27",
+      "fromBook": "LEV",
+      "fromPosition": 3223,
+      "toId": "HEB-13-11",
+      "toBook": "HEB",
+      "toPosition": 34965,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "LEV-18-5",
+      "fromBook": "LEV",
+      "fromPosition": 3251,
+      "toId": "GAL-3-12",
+      "toBook": "GAL",
+      "toPosition": 33827,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "LEV-18-5",
+      "fromBook": "LEV",
+      "fromPosition": 3251,
+      "toId": "ROM-10-5",
+      "toBook": "ROM",
+      "toPosition": 32907,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "LEV-19-2",
+      "fromBook": "LEV",
+      "fromPosition": 3278,
+      "toId": "1PE-1-16",
+      "toBook": "1PE",
+      "toPosition": 35103,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 18
+    },
+    {
+      "fromId": "LEV-19-15",
+      "fromBook": "LEV",
+      "fromPosition": 3291,
+      "toId": "JAS-2-2",
+      "toBook": "JAS",
+      "toPosition": 35008,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-19-17",
+      "fromBook": "LEV",
+      "fromPosition": 3293,
+      "toId": "MAT-18-5",
+      "toBook": "MAT",
+      "toPosition": 28449,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-19-17",
+      "fromBook": "LEV",
+      "fromPosition": 3293,
+      "toId": "1JN-2-11",
+      "toBook": "1JN",
+      "toPosition": 35274,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "LEV-19-17",
+      "fromBook": "LEV",
+      "fromPosition": 3293,
+      "toId": "LUK-17-3",
+      "toBook": "LUK",
+      "toPosition": 30370,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "LEV-19-17",
+      "fromBook": "LEV",
+      "fromPosition": 3293,
+      "toId": "1JN-3-14",
+      "toBook": "1JN",
+      "toPosition": 35306,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "LEV-19-18",
+      "fromBook": "LEV",
+      "fromPosition": 3294,
+      "toId": "LUK-6-27",
+      "toBook": "LUK",
+      "toPosition": 29889,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-19-18",
+      "fromBook": "LEV",
+      "fromPosition": 3294,
+      "toId": "ROM-13-9",
+      "toBook": "ROM",
+      "toPosition": 32989,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 42
+    },
+    {
+      "fromId": "LEV-19-18",
+      "fromBook": "LEV",
+      "fromPosition": 3294,
+      "toId": "MAT-22-39",
+      "toBook": "MAT",
+      "toPosition": 28628,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 40
+    },
+    {
+      "fromId": "LEV-19-18",
+      "fromBook": "LEV",
+      "fromPosition": 3294,
+      "toId": "MAT-5-43",
+      "toBook": "MAT",
+      "toPosition": 27995,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 15
+    },
+    {
+      "fromId": "LEV-20-7",
+      "fromBook": "LEV",
+      "fromPosition": 3320,
+      "toId": "1PE-1-16",
+      "toBook": "1PE",
+      "toPosition": 35103,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "LEV-20-9",
+      "fromBook": "LEV",
+      "fromPosition": 3322,
+      "toId": "MRK-7-10",
+      "toBook": "MRK",
+      "toPosition": 29189,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "LEV-20-9",
+      "fromBook": "LEV",
+      "fromPosition": 3322,
+      "toId": "MAT-15-4",
+      "toBook": "MAT",
+      "toPosition": 28355,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "LEV-20-10",
+      "fromBook": "LEV",
+      "fromPosition": 3323,
+      "toId": "JHN-8-5",
+      "toBook": "JHN",
+      "toPosition": 31103,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "LEV-20-26",
+      "fromBook": "LEV",
+      "fromPosition": 3339,
+      "toId": "1PE-1-16",
+      "toBook": "1PE",
+      "toPosition": 35103,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "LEV-23-35",
+      "fromBook": "LEV",
+      "fromPosition": 3432,
+      "toId": "JHN-7-37",
+      "toBook": "JHN",
+      "toPosition": 31082,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "LEV-24-20",
+      "fromBook": "LEV",
+      "fromPosition": 3461,
+      "toId": "MAT-5-38",
+      "toBook": "MAT",
+      "toPosition": 27990,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "LEV-26-12",
+      "fromBook": "LEV",
+      "fromPosition": 3531,
+      "toId": "2CO-6-16",
+      "toBook": "2CO",
+      "toPosition": 33628,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "NUM-6-18",
+      "fromBook": "NUM",
+      "fromPosition": 3835,
+      "toId": "ACT-21-24",
+      "toBook": "ACT",
+      "toPosition": 32402,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "NUM-8-16",
+      "fromBook": "NUM",
+      "fromPosition": 3949,
+      "toId": "LUK-2-23",
+      "toBook": "LUK",
+      "toPosition": 29712,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-9-12",
+      "fromBook": "NUM",
+      "fromPosition": 3971,
+      "toId": "JHN-19-36",
+      "toBook": "JHN",
+      "toPosition": 31578,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "NUM-9-18",
+      "fromBook": "NUM",
+      "fromPosition": 3977,
+      "toId": "1CO-10-1",
+      "toBook": "1CO",
+      "toPosition": 33282,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "NUM-11-1",
+      "fromBook": "NUM",
+      "fromPosition": 4019,
+      "toId": "1CO-10-10",
+      "toBook": "1CO",
+      "toPosition": 33291,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "NUM-11-4",
+      "fromBook": "NUM",
+      "fromPosition": 4022,
+      "toId": "1CO-10-3",
+      "toBook": "1CO",
+      "toPosition": 33284,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-11-7",
+      "fromBook": "NUM",
+      "fromPosition": 4025,
+      "toId": "JHN-6-31",
+      "toBook": "JHN",
+      "toPosition": 31004,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-11-22",
+      "fromBook": "NUM",
+      "fromPosition": 4040,
+      "toId": "JHN-6-10",
+      "toBook": "JHN",
+      "toPosition": 30983,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-12-7",
+      "fromBook": "NUM",
+      "fromPosition": 4059,
+      "toId": "HEB-3-2",
+      "toBook": "HEB",
+      "toPosition": 34710,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "NUM-13-17",
+      "fromBook": "NUM",
+      "fromPosition": 4084,
+      "toId": "ACT-7-45",
+      "toBook": "ACT",
+      "toPosition": 31878,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-13-17",
+      "fromBook": "NUM",
+      "fromPosition": 4084,
+      "toId": "HEB-4-8",
+      "toBook": "HEB",
+      "toPosition": 34735,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-14-36",
+      "fromBook": "NUM",
+      "fromPosition": 4137,
+      "toId": "1CO-10-10",
+      "toBook": "1CO",
+      "toPosition": 33291,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-14-36",
+      "fromBook": "NUM",
+      "fromPosition": 4137,
+      "toId": "HEB-3-17",
+      "toBook": "HEB",
+      "toPosition": 34725,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-14-36",
+      "fromBook": "NUM",
+      "fromPosition": 4137,
+      "toId": "JUD-1-5",
+      "toBook": "JUD",
+      "toPosition": 35391,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-15-38",
+      "fromBook": "NUM",
+      "fromPosition": 4184,
+      "toId": "MAT-23-5",
+      "toBook": "MAT",
+      "toPosition": 28640,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "NUM-16-3",
+      "fromBook": "NUM",
+      "fromPosition": 4190,
+      "toId": "1CO-10-10",
+      "toBook": "1CO",
+      "toPosition": 33291,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-16-3",
+      "fromBook": "NUM",
+      "fromPosition": 4190,
+      "toId": "JUD-1-12",
+      "toBook": "JUD",
+      "toPosition": 35398,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-17-10",
+      "fromBook": "NUM",
+      "fromPosition": 4247,
+      "toId": "HEB-9-4",
+      "toBook": "HEB",
+      "toPosition": 34822,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "NUM-19-3",
+      "fromBook": "NUM",
+      "fromPosition": 4285,
+      "toId": "HEB-13-11",
+      "toBook": "HEB",
+      "toPosition": 34965,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "NUM-20-10",
+      "fromBook": "NUM",
+      "fromPosition": 4314,
+      "toId": "1CO-10-4",
+      "toBook": "1CO",
+      "toPosition": 33285,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-21-6",
+      "fromBook": "NUM",
+      "fromPosition": 4340,
+      "toId": "1CO-10-9",
+      "toBook": "1CO",
+      "toPosition": 33290,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "NUM-21-9",
+      "fromBook": "NUM",
+      "fromPosition": 4343,
+      "toId": "JHN-3-14",
+      "toBook": "JHN",
+      "toPosition": 30850,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "NUM-22-22",
+      "fromBook": "NUM",
+      "fromPosition": 4391,
+      "toId": "2PE-2-15",
+      "toBook": "2PE",
+      "toPosition": 35228,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-24-17",
+      "fromBook": "NUM",
+      "fromPosition": 4457,
+      "toId": "MAT-2-2",
+      "toBook": "MAT",
+      "toPosition": 27889,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "NUM-25-7",
+      "fromBook": "NUM",
+      "fromPosition": 4472,
+      "toId": "1CO-10-3",
+      "toBook": "1CO",
+      "toPosition": 33284,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NUM-26-64",
+      "fromBook": "NUM",
+      "fromPosition": 4547,
+      "toId": "1CO-10-5",
+      "toBook": "1CO",
+      "toPosition": 33286,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "NUM-28-9",
+      "fromBook": "NUM",
+      "fromPosition": 4580,
+      "toId": "MAT-12-5",
+      "toBook": "MAT",
+      "toPosition": 28212,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DEU-1-16",
+      "fromBook": "DEU",
+      "fromPosition": 4902,
+      "toId": "JHN-7-24",
+      "toBook": "JHN",
+      "toPosition": 31069,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "DEU-1-17",
+      "fromBook": "DEU",
+      "fromPosition": 4903,
+      "toId": "JAS-2-1",
+      "toBook": "JAS",
+      "toPosition": 35007,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "DEU-4-24",
+      "fromBook": "DEU",
+      "fromPosition": 5022,
+      "toId": "HEB-12-29",
+      "toBook": "HEB",
+      "toPosition": 34954,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "DEU-5-11",
+      "fromBook": "DEU",
+      "fromPosition": 5058,
+      "toId": "MAT-5-33",
+      "toBook": "MAT",
+      "toPosition": 27985,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "DEU-5-14",
+      "fromBook": "DEU",
+      "fromPosition": 5061,
+      "toId": "HEB-4-4",
+      "toBook": "HEB",
+      "toPosition": 34731,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "DEU-5-16",
+      "fromBook": "DEU",
+      "fromPosition": 5063,
+      "toId": "MRK-7-10",
+      "toBook": "MRK",
+      "toPosition": 29189,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "DEU-5-16",
+      "fromBook": "DEU",
+      "fromPosition": 5063,
+      "toId": "MAT-15-4",
+      "toBook": "MAT",
+      "toPosition": 28355,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "DEU-5-16",
+      "fromBook": "DEU",
+      "fromPosition": 5063,
+      "toId": "EPH-6-2",
+      "toBook": "EPH",
+      "toPosition": 34052,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 27
+    },
+    {
+      "fromId": "DEU-5-21",
+      "fromBook": "DEU",
+      "fromPosition": 5068,
+      "toId": "MAT-5-28",
+      "toBook": "MAT",
+      "toPosition": 27980,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DEU-5-21",
+      "fromBook": "DEU",
+      "fromPosition": 5068,
+      "toId": "ROM-7-7",
+      "toBook": "ROM",
+      "toPosition": 32812,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "DEU-6-5",
+      "fromBook": "DEU",
+      "fromPosition": 5085,
+      "toId": "LUK-10-27",
+      "toBook": "LUK",
+      "toPosition": 30106,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 94
+    },
+    {
+      "fromId": "DEU-6-5",
+      "fromBook": "DEU",
+      "fromPosition": 5085,
+      "toId": "MAT-22-37",
+      "toBook": "MAT",
+      "toPosition": 28626,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 101
+    },
+    {
+      "fromId": "DEU-6-5",
+      "fromBook": "DEU",
+      "fromPosition": 5085,
+      "toId": "MRK-12-30",
+      "toBook": "MRK",
+      "toPosition": 29419,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 121
+    },
+    {
+      "fromId": "DEU-6-13",
+      "fromBook": "DEU",
+      "fromPosition": 5093,
+      "toId": "LUK-4-8",
+      "toBook": "LUK",
+      "toPosition": 29787,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "DEU-6-13",
+      "fromBook": "DEU",
+      "fromPosition": 5093,
+      "toId": "MAT-4-10",
+      "toBook": "MAT",
+      "toPosition": 27937,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "DEU-6-16",
+      "fromBook": "DEU",
+      "fromPosition": 5096,
+      "toId": "LUK-4-12",
+      "toBook": "LUK",
+      "toPosition": 29791,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 26
+    },
+    {
+      "fromId": "DEU-6-16",
+      "fromBook": "DEU",
+      "fromPosition": 5096,
+      "toId": "MAT-4-7",
+      "toBook": "MAT",
+      "toPosition": 27934,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 25
+    },
+    {
+      "fromId": "DEU-8-3",
+      "fromBook": "DEU",
+      "fromPosition": 5134,
+      "toId": "MAT-4-4",
+      "toBook": "MAT",
+      "toPosition": 27931,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 62
+    },
+    {
+      "fromId": "DEU-8-3",
+      "fromBook": "DEU",
+      "fromPosition": 5134,
+      "toId": "LUK-4-4",
+      "toBook": "LUK",
+      "toPosition": 29783,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 39
+    },
+    {
+      "fromId": "DEU-10-17",
+      "fromBook": "DEU",
+      "fromPosition": 5197,
+      "toId": "ACT-10-34",
+      "toBook": "ACT",
+      "toPosition": 32009,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "DEU-10-17",
+      "fromBook": "DEU",
+      "fromPosition": 5197,
+      "toId": "GAL-2-6",
+      "toBook": "GAL",
+      "toPosition": 33800,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "DEU-10-17",
+      "fromBook": "DEU",
+      "fromPosition": 5197,
+      "toId": "ROM-2-11",
+      "toBook": "ROM",
+      "toPosition": 32687,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "DEU-10-20",
+      "fromBook": "DEU",
+      "fromPosition": 5200,
+      "toId": "LUK-4-8",
+      "toBook": "LUK",
+      "toPosition": 29787,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "DEU-10-20",
+      "fromBook": "DEU",
+      "fromPosition": 5200,
+      "toId": "MAT-4-10",
+      "toBook": "MAT",
+      "toPosition": 27937,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "DEU-15-8",
+      "fromBook": "DEU",
+      "fromPosition": 5321,
+      "toId": "MAT-5-42",
+      "toBook": "MAT",
+      "toPosition": 27994,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "DEU-15-8",
+      "fromBook": "DEU",
+      "fromPosition": 5321,
+      "toId": "LUK-6-34",
+      "toBook": "LUK",
+      "toPosition": 29896,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "DEU-15-11",
+      "fromBook": "DEU",
+      "fromPosition": 5324,
+      "toId": "MAT-26-11",
+      "toBook": "MAT",
+      "toPosition": 28782,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "DEU-17-6",
+      "fromBook": "DEU",
+      "fromPosition": 5364,
+      "toId": "MAT-18-6",
+      "toBook": "MAT",
+      "toPosition": 28450,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DEU-17-6",
+      "fromBook": "DEU",
+      "fromPosition": 5364,
+      "toId": "2CO-13-1",
+      "toBook": "2CO",
+      "toPosition": 33758,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "DEU-18-1",
+      "fromBook": "DEU",
+      "fromPosition": 5379,
+      "toId": "1CO-9-13",
+      "toBook": "1CO",
+      "toPosition": 33267,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "DEU-18-15",
+      "fromBook": "DEU",
+      "fromPosition": 5393,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 24
+    },
+    {
+      "fromId": "DEU-18-15",
+      "fromBook": "DEU",
+      "fromPosition": 5393,
+      "toId": "ACT-3-22",
+      "toBook": "ACT",
+      "toPosition": 31735,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 35
+    },
+    {
+      "fromId": "DEU-18-18",
+      "fromBook": "DEU",
+      "fromPosition": 5396,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "DEU-19-15",
+      "fromBook": "DEU",
+      "fromPosition": 5415,
+      "toId": "2CO-13-1",
+      "toBook": "2CO",
+      "toPosition": 33758,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "DEU-19-15",
+      "fromBook": "DEU",
+      "fromPosition": 5415,
+      "toId": "MAT-18-16",
+      "toBook": "MAT",
+      "toPosition": 28460,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "DEU-19-21",
+      "fromBook": "DEU",
+      "fromPosition": 5421,
+      "toId": "MAT-5-38",
+      "toBook": "MAT",
+      "toPosition": 27990,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "DEU-21-23",
+      "fromBook": "DEU",
+      "fromPosition": 5464,
+      "toId": "GAL-3-13",
+      "toBook": "GAL",
+      "toPosition": 33828,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 18
+    },
+    {
+      "fromId": "DEU-24-1",
+      "fromBook": "DEU",
+      "fromPosition": 5520,
+      "toId": "MAT-5-32",
+      "toBook": "MAT",
+      "toPosition": 27984,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "DEU-24-1",
+      "fromBook": "DEU",
+      "fromPosition": 5520,
+      "toId": "MAT-19-7",
+      "toBook": "MAT",
+      "toPosition": 28486,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "DEU-24-1",
+      "fromBook": "DEU",
+      "fromPosition": 5520,
+      "toId": "MRK-10-4",
+      "toBook": "MRK",
+      "toPosition": 29308,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "DEU-25-3",
+      "fromBook": "DEU",
+      "fromPosition": 5544,
+      "toId": "2CO-11-24",
+      "toBook": "2CO",
+      "toPosition": 33727,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 1
+    },
+    {
+      "fromId": "DEU-25-4",
+      "fromBook": "DEU",
+      "fromPosition": 5545,
+      "toId": "1CO-9-9",
+      "toBook": "1CO",
+      "toPosition": 33263,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "DEU-25-4",
+      "fromBook": "DEU",
+      "fromPosition": 5545,
+      "toId": "1TI-5-18",
+      "toBook": "1TI",
+      "toPosition": 34494,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "DEU-25-5",
+      "fromBook": "DEU",
+      "fromPosition": 5546,
+      "toId": "LUK-20-28",
+      "toBook": "LUK",
+      "toPosition": 30523,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "DEU-25-5",
+      "fromBook": "DEU",
+      "fromPosition": 5546,
+      "toId": "MAT-22-24",
+      "toBook": "MAT",
+      "toPosition": 28613,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "DEU-25-5",
+      "fromBook": "DEU",
+      "fromPosition": 5546,
+      "toId": "MRK-12-19",
+      "toBook": "MRK",
+      "toPosition": 29408,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "DEU-30-13",
+      "fromBook": "DEU",
+      "fromPosition": 5715,
+      "toId": "ROM-10-6",
+      "toBook": "ROM",
+      "toPosition": 32908,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DEU-32-21",
+      "fromBook": "DEU",
+      "fromPosition": 5773,
+      "toId": "ROM-10-19",
+      "toBook": "ROM",
+      "toPosition": 32921,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 29
+    },
+    {
+      "fromId": "DEU-32-35",
+      "fromBook": "DEU",
+      "fromPosition": 5787,
+      "toId": "HEB-10-30",
+      "toBook": "HEB",
+      "toPosition": 34876,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "DEU-32-35",
+      "fromBook": "DEU",
+      "fromPosition": 5787,
+      "toId": "ROM-12-19",
+      "toBook": "ROM",
+      "toPosition": 32978,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 18
+    },
+    {
+      "fromId": "JOS-1-5",
+      "fromBook": "JOS",
+      "fromPosition": 5850,
+      "toId": "HEB-13-5",
+      "toBook": "HEB",
+      "toPosition": 34959,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 18
+    },
+    {
+      "fromId": "JOS-2-1",
+      "fromBook": "JOS",
+      "fromPosition": 5864,
+      "toId": "JAS-2-25",
+      "toBook": "JAS",
+      "toPosition": 35031,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "JOS-2-1",
+      "fromBook": "JOS",
+      "fromPosition": 5864,
+      "toId": "HEB-11-31",
+      "toBook": "HEB",
+      "toPosition": 34916,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "JOS-3-11",
+      "fromBook": "JOS",
+      "fromPosition": 5898,
+      "toId": "ACT-7-45",
+      "toBook": "ACT",
+      "toPosition": 31878,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOS-5-16",
+      "fromBook": "JOS",
+      "fromPosition": 5945,
+      "toId": "ACT-7-33",
+      "toBook": "ACT",
+      "toPosition": 31866,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOS-6-17",
+      "fromBook": "JOS",
+      "fromPosition": 5962,
+      "toId": "HEB-11-31",
+      "toBook": "HEB",
+      "toPosition": 34916,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "JOS-6-20",
+      "fromBook": "JOS",
+      "fromPosition": 5965,
+      "toId": "HEB-11-30",
+      "toBook": "HEB",
+      "toPosition": 34915,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 17
+    },
+    {
+      "fromId": "JOS-6-23",
+      "fromBook": "JOS",
+      "fromPosition": 5968,
+      "toId": "HEB-11-31",
+      "toBook": "HEB",
+      "toPosition": 34916,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JDG-13-3",
+      "fromBook": "JDG",
+      "fromPosition": 6882,
+      "toId": "LUK-1-31",
+      "toBook": "LUK",
+      "toPosition": 29640,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "RUT-4-18",
+      "fromBook": "RUT",
+      "fromPosition": 7202,
+      "toId": "MAT-1-3",
+      "toBook": "MAT",
+      "toPosition": 27865,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "1SA-7-3",
+      "fromBook": "1SA",
+      "fromPosition": 7349,
+      "toId": "MAT-4-10",
+      "toBook": "MAT",
+      "toPosition": 27937,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 111
+    },
+    {
+      "fromId": "1SA-8-5",
+      "fromBook": "1SA",
+      "fromPosition": 7368,
+      "toId": "ACT-13-21",
+      "toBook": "ACT",
+      "toPosition": 32099,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "1SA-9-15",
+      "fromBook": "1SA",
+      "fromPosition": 7400,
+      "toId": "ACT-13-21",
+      "toBook": "ACT",
+      "toPosition": 32099,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "1SA-13-14",
+      "fromBook": "1SA",
+      "fromPosition": 7493,
+      "toId": "ACT-13-22",
+      "toBook": "ACT",
+      "toPosition": 32100,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 30
+    },
+    {
+      "fromId": "1SA-15-22",
+      "fromBook": "1SA",
+      "fromPosition": 7576,
+      "toId": "MAT-9-13",
+      "toBook": "MAT",
+      "toPosition": 28110,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 253
+    },
+    {
+      "fromId": "1SA-15-22",
+      "fromBook": "1SA",
+      "fromPosition": 7576,
+      "toId": "MAT-12-7",
+      "toBook": "MAT",
+      "toPosition": 28214,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 169
+    },
+    {
+      "fromId": "1SA-16-13",
+      "fromBook": "1SA",
+      "fromPosition": 7602,
+      "toId": "ACT-7-46",
+      "toBook": "ACT",
+      "toPosition": 31879,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1SA-16-13",
+      "fromBook": "1SA",
+      "fromPosition": 7602,
+      "toId": "ACT-13-22",
+      "toBook": "ACT",
+      "toPosition": 32100,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1SA-20-6",
+      "fromBook": "1SA",
+      "fromPosition": 7730,
+      "toId": "LUK-2-4",
+      "toBook": "LUK",
+      "toPosition": 29693,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1SA-21-6",
+      "fromBook": "1SA",
+      "fromPosition": 7773,
+      "toId": "MAT-12-4",
+      "toBook": "MAT",
+      "toPosition": 28211,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "1SA-21-6",
+      "fromBook": "1SA",
+      "fromPosition": 7773,
+      "toId": "MAT-12-3",
+      "toBook": "MAT",
+      "toPosition": 28210,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "1SA-28-7",
+      "fromBook": "1SA",
+      "fromPosition": 7944,
+      "toId": "ACT-16-16",
+      "toBook": "ACT",
+      "toPosition": 32214,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "2SA-7-14",
+      "fromBook": "2SA",
+      "fromPosition": 8189,
+      "toId": "HEB-1-5",
+      "toBook": "HEB",
+      "toPosition": 34681,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "2SA-7-16",
+      "fromBook": "2SA",
+      "fromPosition": 8191,
+      "toId": "HEB-1-8",
+      "toBook": "HEB",
+      "toPosition": 34684,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "2SA-22-50",
+      "fromBook": "2SA",
+      "fromPosition": 8647,
+      "toId": "ROM-15-9",
+      "toBook": "ROM",
+      "toPosition": 33026,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "2SA-23-1",
+      "fromBook": "2SA",
+      "fromPosition": 8649,
+      "toId": "ACT-2-10",
+      "toBook": "ACT",
+      "toPosition": 31676,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1KI-2-10",
+      "fromBook": "1KI",
+      "fromPosition": 8775,
+      "toId": "ACT-2-29",
+      "toBook": "ACT",
+      "toPosition": 31695,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "1KI-3-13",
+      "fromBook": "1KI",
+      "fromPosition": 8824,
+      "toId": "MAT-6-21",
+      "toBook": "MAT",
+      "toPosition": 28021,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1KI-8-1",
+      "fromBook": "1KI",
+      "fromPosition": 8981,
+      "toId": "HEB-9-4",
+      "toBook": "HEB",
+      "toPosition": 34822,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1KI-8-46",
+      "fromBook": "1KI",
+      "fromPosition": 9026,
+      "toId": "1JN-1-8",
+      "toBook": "1JN",
+      "toPosition": 35261,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "1KI-10-1",
+      "fromBook": "1KI",
+      "fromPosition": 9075,
+      "toId": "MAT-12-42",
+      "toBook": "MAT",
+      "toPosition": 28249,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "1KI-10-1",
+      "fromBook": "1KI",
+      "fromPosition": 9075,
+      "toId": "LUK-11-31",
+      "toBook": "LUK",
+      "toPosition": 30152,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "1KI-17-1",
+      "fromBook": "1KI",
+      "fromPosition": 9313,
+      "toId": "JAS-5-17",
+      "toBook": "JAS",
+      "toPosition": 35084,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "1KI-17-10",
+      "fromBook": "1KI",
+      "fromPosition": 9322,
+      "toId": "LUK-4-26",
+      "toBook": "LUK",
+      "toPosition": 29805,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1KI-19-14",
+      "fromBook": "1KI",
+      "fromPosition": 9396,
+      "toId": "ROM-11-3",
+      "toBook": "ROM",
+      "toPosition": 32926,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1KI-19-18",
+      "fromBook": "1KI",
+      "fromPosition": 9400,
+      "toId": "ROM-11-4",
+      "toBook": "ROM",
+      "toPosition": 32927,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 19
+    },
+    {
+      "fromId": "1KI-22-17",
+      "fromBook": "1KI",
+      "fromPosition": 9492,
+      "toId": "MAT-9-36",
+      "toBook": "MAT",
+      "toPosition": 28133,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "1KI-22-22",
+      "fromBook": "1KI",
+      "fromPosition": 9497,
+      "toId": "MAT-8-32",
+      "toBook": "MAT",
+      "toPosition": 28095,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "1KI-22-22",
+      "fromBook": "1KI",
+      "fromPosition": 9497,
+      "toId": "REV-20-3",
+      "toBook": "REV",
+      "toPosition": 35756,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "2KI-5-14",
+      "fromBook": "2KI",
+      "fromPosition": 9657,
+      "toId": "LUK-4-27",
+      "toBook": "LUK",
+      "toPosition": 29806,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "1CH-2-4",
+      "fromBook": "1CH",
+      "fromPosition": 10306,
+      "toId": "MAT-1-3",
+      "toBook": "MAT",
+      "toPosition": 27865,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "1CH-3-16",
+      "fromBook": "1CH",
+      "fromPosition": 10373,
+      "toId": "MAT-1-11",
+      "toBook": "MAT",
+      "toPosition": 27873,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "1CH-4-1",
+      "fromBook": "1CH",
+      "fromPosition": 10382,
+      "toId": "MAT-1-3",
+      "toBook": "MAT",
+      "toPosition": 27865,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "2CH-3-14",
+      "fromBook": "2CH",
+      "fromPosition": 11237,
+      "toId": "MAT-27-51",
+      "toBook": "MAT",
+      "toPosition": 28897,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "2CH-6-36",
+      "fromBook": "2CH",
+      "fromPosition": 11312,
+      "toId": "1JN-1-8",
+      "toBook": "1JN",
+      "toPosition": 35261,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "2CH-9-1",
+      "fromBook": "2CH",
+      "fromPosition": 11359,
+      "toId": "MAT-12-42",
+      "toBook": "MAT",
+      "toPosition": 28249,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "2CH-9-1",
+      "fromBook": "2CH",
+      "fromPosition": 11359,
+      "toId": "LUK-11-31",
+      "toBook": "LUK",
+      "toPosition": 30152,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "2CH-19-7",
+      "fromBook": "2CH",
+      "fromPosition": 11577,
+      "toId": "ACT-10-24",
+      "toBook": "ACT",
+      "toPosition": 31999,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "2CH-19-7",
+      "fromBook": "2CH",
+      "fromPosition": 11577,
+      "toId": "EPH-6-9",
+      "toBook": "EPH",
+      "toPosition": 34059,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "2CH-19-7",
+      "fromBook": "2CH",
+      "fromPosition": 11577,
+      "toId": "1PE-1-17",
+      "toBook": "1PE",
+      "toPosition": 35104,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "2CH-19-7",
+      "fromBook": "2CH",
+      "fromPosition": 11577,
+      "toId": "COL-3-25",
+      "toBook": "COL",
+      "toPosition": 34255,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "2CH-19-7",
+      "fromBook": "2CH",
+      "fromPosition": 11577,
+      "toId": "GAL-2-6",
+      "toBook": "GAL",
+      "toPosition": 33800,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "2CH-19-7",
+      "fromBook": "2CH",
+      "fromPosition": 11577,
+      "toId": "ROM-2-11",
+      "toBook": "ROM",
+      "toPosition": 32687,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "2CH-24-22",
+      "fromBook": "2CH",
+      "fromPosition": 11693,
+      "toId": "MAT-23-35",
+      "toBook": "MAT",
+      "toPosition": 28670,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "2CH-36-4",
+      "fromBook": "2CH",
+      "fromPosition": 11991,
+      "toId": "MAT-1-11",
+      "toBook": "MAT",
+      "toPosition": 27873,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-4-7",
+      "fromBook": "TOB",
+      "fromPosition": 12774,
+      "toId": "LUK-14-13",
+      "toBook": "LUK",
+      "toPosition": 30282,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-4-13",
+      "fromBook": "TOB",
+      "fromPosition": 12780,
+      "toId": "1TH-4-3",
+      "toBook": "1TH",
+      "toPosition": 34319,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-4-16",
+      "fromBook": "TOB",
+      "fromPosition": 12783,
+      "toId": "LUK-6-31",
+      "toBook": "LUK",
+      "toPosition": 29893,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-4-16",
+      "fromBook": "TOB",
+      "fromPosition": 12783,
+      "toId": "MAT-7-12",
+      "toBook": "MAT",
+      "toPosition": 28046,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-4-17",
+      "fromBook": "TOB",
+      "fromPosition": 12784,
+      "toId": "LUK-14-13",
+      "toBook": "LUK",
+      "toPosition": 30282,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-4-23",
+      "fromBook": "TOB",
+      "fromPosition": 12790,
+      "toId": "ROM-8-17",
+      "toBook": "ROM",
+      "toPosition": 32847,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "TOB-13-21",
+      "fromBook": "TOB",
+      "fromPosition": 12973,
+      "toId": "REV-21-16",
+      "toBook": "REV",
+      "toPosition": 35784,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JDT-8-25",
+      "fromBook": "JDT",
+      "fromPosition": 13154,
+      "toId": "1CO-10-9",
+      "toBook": "1CO",
+      "toPosition": 33290,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOB-1-21",
+      "fromBook": "JOB",
+      "fromPosition": 15121,
+      "toId": "1TI-6-7",
+      "toBook": "1TI",
+      "toPosition": 34508,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 22
+    },
+    {
+      "fromId": "JOB-5-13",
+      "fromBook": "JOB",
+      "fromPosition": 15195,
+      "toId": "1CO-3-19",
+      "toBook": "1CO",
+      "toPosition": 33143,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "JOB-12-14",
+      "fromBook": "JOB",
+      "fromPosition": 15373,
+      "toId": "REV-3-7",
+      "toBook": "REV",
+      "toPosition": 35467,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "JOB-24-23",
+      "fromBook": "JOB",
+      "fromPosition": 15691,
+      "toId": "REV-2-21",
+      "toBook": "REV",
+      "toPosition": 35452,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOB-34-19",
+      "fromBook": "JOB",
+      "fromPosition": 15934,
+      "toId": "ACT-10-34",
+      "toBook": "ACT",
+      "toPosition": 32009,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "JOB-34-19",
+      "fromBook": "JOB",
+      "fromPosition": 15934,
+      "toId": "1PE-1-17",
+      "toBook": "1PE",
+      "toPosition": 35104,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "JOB-34-19",
+      "fromBook": "JOB",
+      "fromPosition": 15934,
+      "toId": "ROM-2-11",
+      "toBook": "ROM",
+      "toPosition": 32687,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "JOB-34-19",
+      "fromBook": "JOB",
+      "fromPosition": 15934,
+      "toId": "COL-3-25",
+      "toBook": "COL",
+      "toPosition": 34255,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "JOB-34-19",
+      "fromBook": "JOB",
+      "fromPosition": 15934,
+      "toId": "EPH-6-9",
+      "toBook": "EPH",
+      "toPosition": 34059,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "JOB-34-19",
+      "fromBook": "JOB",
+      "fromPosition": 15934,
+      "toId": "GAL-2-6",
+      "toBook": "GAL",
+      "toPosition": 33800,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "PSA-2-1",
+      "fromBook": "PSA",
+      "fromPosition": 16177,
+      "toId": "ACT-4-25",
+      "toBook": "ACT",
+      "toPosition": 31764,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 34
+    },
+    {
+      "fromId": "PSA-2-7",
+      "fromBook": "PSA",
+      "fromPosition": 16183,
+      "toId": "ACT-13-33",
+      "toBook": "ACT",
+      "toPosition": 32111,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 47
+    },
+    {
+      "fromId": "PSA-2-7",
+      "fromBook": "PSA",
+      "fromPosition": 16183,
+      "toId": "HEB-5-5",
+      "toBook": "HEB",
+      "toPosition": 34748,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 50
+    },
+    {
+      "fromId": "PSA-2-7",
+      "fromBook": "PSA",
+      "fromPosition": 16183,
+      "toId": "HEB-1-5",
+      "toBook": "HEB",
+      "toPosition": 34681,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 31
+    },
+    {
+      "fromId": "PSA-2-9",
+      "fromBook": "PSA",
+      "fromPosition": 16185,
+      "toId": "REV-19-15",
+      "toBook": "REV",
+      "toPosition": 35747,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "PSA-2-9",
+      "fromBook": "PSA",
+      "fromPosition": 16185,
+      "toId": "REV-2-27",
+      "toBook": "REV",
+      "toPosition": 35458,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "PSA-3-5",
+      "fromBook": "PSA",
+      "fromPosition": 16194,
+      "toId": "EPH-4-26",
+      "toBook": "EPH",
+      "toPosition": 34011,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-5-11",
+      "fromBook": "PSA",
+      "fromPosition": 16219,
+      "toId": "ROM-3-13",
+      "toBook": "ROM",
+      "toPosition": 32718,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-6-9",
+      "fromBook": "PSA",
+      "fromPosition": 16230,
+      "toId": "LUK-13-27",
+      "toBook": "LUK",
+      "toPosition": 30261,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-6-9",
+      "fromBook": "PSA",
+      "fromPosition": 16230,
+      "toId": "MAT-25-41",
+      "toBook": "MAT",
+      "toPosition": 28766,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-6-9",
+      "fromBook": "PSA",
+      "fromPosition": 16230,
+      "toId": "MAT-7-23",
+      "toBook": "MAT",
+      "toPosition": 28057,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-8-6",
+      "fromBook": "PSA",
+      "fromPosition": 16256,
+      "toId": "HEB-2-7",
+      "toBook": "HEB",
+      "toPosition": 34697,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-8-8",
+      "fromBook": "PSA",
+      "fromPosition": 16258,
+      "toId": "1CO-15-26",
+      "toBook": "1CO",
+      "toPosition": 33458,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-15-10",
+      "fromBook": "PSA",
+      "fromPosition": 16344,
+      "toId": "ACT-13-35",
+      "toBook": "ACT",
+      "toPosition": 32113,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-15-10",
+      "fromBook": "PSA",
+      "fromPosition": 16344,
+      "toId": "ACT-2-31",
+      "toBook": "ACT",
+      "toPosition": 31697,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-16-3",
+      "fromBook": "PSA",
+      "fromPosition": 16348,
+      "toId": "HEB-2-13",
+      "toBook": "HEB",
+      "toPosition": 34703,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-17-50",
+      "fromBook": "PSA",
+      "fromPosition": 16410,
+      "toId": "ROM-15-9",
+      "toBook": "ROM",
+      "toPosition": 33026,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-18-5",
+      "fromBook": "PSA",
+      "fromPosition": 16416,
+      "toId": "ROM-10-18",
+      "toBook": "ROM",
+      "toPosition": 32920,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-18-6",
+      "fromBook": "PSA",
+      "fromPosition": 16417,
+      "toId": "LUK-24-46",
+      "toBook": "LUK",
+      "toPosition": 30753,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-19-1",
+      "fromBook": "PSA",
+      "fromPosition": 16427,
+      "toId": "MRK-15-34",
+      "toBook": "MRK",
+      "toPosition": 29576,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-19-1",
+      "fromBook": "PSA",
+      "fromPosition": 16427,
+      "toId": "MAT-27-46",
+      "toBook": "MAT",
+      "toPosition": 28892,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-8",
+      "fromBook": "PSA",
+      "fromPosition": 16458,
+      "toId": "MRK-15-29",
+      "toBook": "MRK",
+      "toPosition": 29571,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-8",
+      "fromBook": "PSA",
+      "fromPosition": 16458,
+      "toId": "MAT-27-39",
+      "toBook": "MAT",
+      "toPosition": 28885,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-9",
+      "fromBook": "PSA",
+      "fromPosition": 16459,
+      "toId": "MAT-27-43",
+      "toBook": "MAT",
+      "toPosition": 28889,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-19",
+      "fromBook": "PSA",
+      "fromPosition": 16469,
+      "toId": "JHN-19-23",
+      "toBook": "JHN",
+      "toPosition": 31565,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-19",
+      "fromBook": "PSA",
+      "fromPosition": 16469,
+      "toId": "JHN-19-24",
+      "toBook": "JHN",
+      "toPosition": 31566,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-19",
+      "fromBook": "PSA",
+      "fromPosition": 16469,
+      "toId": "MAT-27-35",
+      "toBook": "MAT",
+      "toPosition": 28881,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-21-23",
+      "fromBook": "PSA",
+      "fromPosition": 16473,
+      "toId": "HEB-2-12",
+      "toBook": "HEB",
+      "toPosition": 34702,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-22-1",
+      "fromBook": "PSA",
+      "fromPosition": 16483,
+      "toId": "1PE-2-25",
+      "toBook": "1PE",
+      "toPosition": 35137,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-22-1",
+      "fromBook": "PSA",
+      "fromPosition": 16483,
+      "toId": "1PE-5-3",
+      "toBook": "1PE",
+      "toPosition": 35181,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-23-1",
+      "fromBook": "PSA",
+      "fromPosition": 16489,
+      "toId": "1CO-10-26",
+      "toBook": "1CO",
+      "toPosition": 33307,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-24-19",
+      "fromBook": "PSA",
+      "fromPosition": 16517,
+      "toId": "JHN-15-25",
+      "toBook": "JHN",
+      "toPosition": 31441,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-25-6",
+      "fromBook": "PSA",
+      "fromPosition": 16526,
+      "toId": "LUK-23-46",
+      "toBook": "LUK",
+      "toPosition": 30697,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-31-1",
+      "fromBook": "PSA",
+      "fromPosition": 16605,
+      "toId": "ROM-4-7",
+      "toBook": "ROM",
+      "toPosition": 32743,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-33-11",
+      "fromBook": "PSA",
+      "fromPosition": 16648,
+      "toId": "LUK-1-53",
+      "toBook": "LUK",
+      "toPosition": 29662,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-33-13",
+      "fromBook": "PSA",
+      "fromPosition": 16650,
+      "toId": "1PE-3-10",
+      "toBook": "1PE",
+      "toPosition": 35147,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-33-16",
+      "fromBook": "PSA",
+      "fromPosition": 16653,
+      "toId": "HEB-4-13",
+      "toBook": "HEB",
+      "toPosition": 34740,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-34-19",
+      "fromBook": "PSA",
+      "fromPosition": 16679,
+      "toId": "JHN-15-25",
+      "toBook": "JHN",
+      "toPosition": 31441,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-36-11",
+      "fromBook": "PSA",
+      "fromPosition": 16712,
+      "toId": "MAT-5-4",
+      "toBook": "MAT",
+      "toPosition": 27956,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-38-7",
+      "fromBook": "PSA",
+      "fromPosition": 16771,
+      "toId": "HEB-10-5",
+      "toBook": "HEB",
+      "toPosition": 34851,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-44-7",
+      "fromBook": "PSA",
+      "fromPosition": 16861,
+      "toId": "HEB-1-8",
+      "toBook": "HEB",
+      "toPosition": 34684,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-47-5",
+      "fromBook": "PSA",
+      "fromPosition": 16899,
+      "toId": "MAT-13-35",
+      "toBook": "MAT",
+      "toPosition": 28292,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-49-6",
+      "fromBook": "PSA",
+      "fromPosition": 16936,
+      "toId": "ROM-3-4",
+      "toBook": "ROM",
+      "toPosition": 32709,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-52-4",
+      "fromBook": "PSA",
+      "fromPosition": 16989,
+      "toId": "ROM-3-12",
+      "toBook": "ROM",
+      "toPosition": 32717,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-55-13",
+      "fromBook": "PSA",
+      "fromPosition": 17038,
+      "toId": "MAT-16-27",
+      "toBook": "MAT",
+      "toPosition": 28417,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-55-13",
+      "fromBook": "PSA",
+      "fromPosition": 17038,
+      "toId": "GAL-6-5",
+      "toBook": "GAL",
+      "toPosition": 33906,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-55-13",
+      "fromBook": "PSA",
+      "fromPosition": 17038,
+      "toId": "ROM-2-6",
+      "toBook": "ROM",
+      "toPosition": 32682,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-55-13",
+      "fromBook": "PSA",
+      "fromPosition": 17038,
+      "toId": "1CO-3-8",
+      "toBook": "1CO",
+      "toPosition": 33132,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-62-10",
+      "fromBook": "PSA",
+      "fromPosition": 17126,
+      "toId": "JHN-2-17",
+      "toBook": "JHN",
+      "toPosition": 30828,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-68-22",
+      "fromBook": "PSA",
+      "fromPosition": 17239,
+      "toId": "MAT-27-48",
+      "toBook": "MAT",
+      "toPosition": 28894,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-68-23",
+      "fromBook": "PSA",
+      "fromPosition": 17240,
+      "toId": "ROM-11-9",
+      "toBook": "ROM",
+      "toPosition": 32932,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-68-26",
+      "fromBook": "PSA",
+      "fromPosition": 17243,
+      "toId": "ACT-1-20",
+      "toBook": "ACT",
+      "toPosition": 31660,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-73-12",
+      "fromBook": "PSA",
+      "fromPosition": 17344,
+      "toId": "LUK-1-68",
+      "toBook": "LUK",
+      "toPosition": 29677,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-77-25",
+      "fromBook": "PSA",
+      "fromPosition": 17425,
+      "toId": "1CO-10-3",
+      "toBook": "1CO",
+      "toPosition": 33284,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-77-25",
+      "fromBook": "PSA",
+      "fromPosition": 17425,
+      "toId": "JHN-6-31",
+      "toBook": "JHN",
+      "toPosition": 31004,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-80-13",
+      "fromBook": "PSA",
+      "fromPosition": 17518,
+      "toId": "ACT-14-15",
+      "toBook": "ACT",
+      "toPosition": 32145,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-81-6",
+      "fromBook": "PSA",
+      "fromPosition": 17528,
+      "toId": "JHN-10-34",
+      "toBook": "JHN",
+      "toPosition": 31232,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-88-21",
+      "fromBook": "PSA",
+      "fromPosition": 17640,
+      "toId": "ACT-13-22",
+      "toBook": "ACT",
+      "toPosition": 32100,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-90-11",
+      "fromBook": "PSA",
+      "fromPosition": 17700,
+      "toId": "LUK-4-10",
+      "toBook": "LUK",
+      "toPosition": 29789,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-91-8",
+      "fromBook": "PSA",
+      "fromPosition": 17713,
+      "toId": "HEB-4-7",
+      "toBook": "HEB",
+      "toPosition": 34734,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-91-8",
+      "fromBook": "PSA",
+      "fromPosition": 17713,
+      "toId": "HEB-3-7",
+      "toBook": "HEB",
+      "toPosition": 34715,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-94-11",
+      "fromBook": "PSA",
+      "fromPosition": 17760,
+      "toId": "HEB-4-3",
+      "toBook": "HEB",
+      "toPosition": 34730,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-97-2",
+      "fromBook": "PSA",
+      "fromPosition": 17787,
+      "toId": "LUK-3-6",
+      "toBook": "LUK",
+      "toPosition": 29747,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-103-4",
+      "fromBook": "PSA",
+      "fromPosition": 17871,
+      "toId": "HEB-1-7",
+      "toBook": "HEB",
+      "toPosition": 34683,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-104-24",
+      "fromBook": "PSA",
+      "fromPosition": 17926,
+      "toId": "ACT-7-17",
+      "toBook": "ACT",
+      "toPosition": 31850,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-104-39",
+      "fromBook": "PSA",
+      "fromPosition": 17941,
+      "toId": "1CO-10-1",
+      "toBook": "1CO",
+      "toPosition": 33282,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-107-1",
+      "fromBook": "PSA",
+      "fromPosition": 18039,
+      "toId": "HEB-1-13",
+      "toBook": "HEB",
+      "toPosition": 34689,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-107-1",
+      "fromBook": "PSA",
+      "fromPosition": 18039,
+      "toId": "HEB-10-13",
+      "toBook": "HEB",
+      "toPosition": 34859,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-107-1",
+      "fromBook": "PSA",
+      "fromPosition": 18039,
+      "toId": "MAT-22-44",
+      "toBook": "MAT",
+      "toPosition": 28633,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-109-4",
+      "fromBook": "PSA",
+      "fromPosition": 18087,
+      "toId": "JHN-12-34",
+      "toBook": "JHN",
+      "toPosition": 31331,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-109-4",
+      "fromBook": "PSA",
+      "fromPosition": 18087,
+      "toId": "HEB-5-6",
+      "toBook": "HEB",
+      "toPosition": 34749,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-109-4",
+      "fromBook": "PSA",
+      "fromPosition": 18087,
+      "toId": "HEB-7-17",
+      "toBook": "HEB",
+      "toPosition": 34794,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-114-1",
+      "fromBook": "PSA",
+      "fromPosition": 18146,
+      "toId": "ROM-15-11",
+      "toBook": "ROM",
+      "toPosition": 33028,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-116-2",
+      "fromBook": "PSA",
+      "fromPosition": 18166,
+      "toId": "JHN-12-34",
+      "toBook": "JHN",
+      "toPosition": 31331,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-117-7",
+      "fromBook": "PSA",
+      "fromPosition": 18173,
+      "toId": "HEB-13-6",
+      "toBook": "HEB",
+      "toPosition": 34960,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-117-22",
+      "fromBook": "PSA",
+      "fromPosition": 18188,
+      "toId": "ROM-9-33",
+      "toBook": "ROM",
+      "toPosition": 32902,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-117-22",
+      "fromBook": "PSA",
+      "fromPosition": 18188,
+      "toId": "ACT-4-11",
+      "toBook": "ACT",
+      "toPosition": 31750,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-117-22",
+      "fromBook": "PSA",
+      "fromPosition": 18188,
+      "toId": "1PE-2-7",
+      "toBook": "1PE",
+      "toPosition": 35119,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-117-22",
+      "fromBook": "PSA",
+      "fromPosition": 18188,
+      "toId": "MAT-21-42",
+      "toBook": "MAT",
+      "toPosition": 28585,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-117-22",
+      "fromBook": "PSA",
+      "fromPosition": 18188,
+      "toId": "LUK-20-17",
+      "toBook": "LUK",
+      "toPosition": 30512,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-131-11",
+      "fromBook": "PSA",
+      "fromPosition": 18460,
+      "toId": "ACT-2-30",
+      "toBook": "ACT",
+      "toPosition": 31696,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-131-11",
+      "fromBook": "PSA",
+      "fromPosition": 18460,
+      "toId": "LUK-1-53",
+      "toBook": "LUK",
+      "toPosition": 29662,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-131-17",
+      "fromBook": "PSA",
+      "fromPosition": 18466,
+      "toId": "LUK-1-69",
+      "toBook": "LUK",
+      "toPosition": 29678,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-139-4",
+      "fromBook": "PSA",
+      "fromPosition": 18566,
+      "toId": "ROM-3-13",
+      "toBook": "ROM",
+      "toPosition": 32718,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-145-6",
+      "fromBook": "PSA",
+      "fromPosition": 18648,
+      "toId": "ACT-14-14",
+      "toBook": "ACT",
+      "toPosition": 32144,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PSA-145-6",
+      "fromBook": "PSA",
+      "fromPosition": 18648,
+      "toId": "REV-14-7",
+      "toBook": "REV",
+      "toPosition": 35648,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PRO-3-7",
+      "fromBook": "PRO",
+      "fromPosition": 18763,
+      "toId": "ROM-12-16",
+      "toBook": "ROM",
+      "toPosition": 32975,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 35
+    },
+    {
+      "fromId": "PRO-3-9",
+      "fromBook": "PRO",
+      "fromPosition": 18765,
+      "toId": "LUK-14-13",
+      "toBook": "LUK",
+      "toPosition": 30282,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "PRO-3-11",
+      "fromBook": "PRO",
+      "fromPosition": 18767,
+      "toId": "REV-3-10",
+      "toBook": "REV",
+      "toPosition": 35470,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "PRO-3-11",
+      "fromBook": "PRO",
+      "fromPosition": 18767,
+      "toId": "HEB-12-5",
+      "toBook": "HEB",
+      "toPosition": 34930,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 23
+    },
+    {
+      "fromId": "PRO-10-12",
+      "fromBook": "PRO",
+      "fromPosition": 18969,
+      "toId": "1CO-13-4",
+      "toBook": "1CO",
+      "toPosition": 33383,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 23
+    },
+    {
+      "fromId": "PRO-10-12",
+      "fromBook": "PRO",
+      "fromPosition": 18969,
+      "toId": "1PE-4-8",
+      "toBook": "1PE",
+      "toPosition": 35167,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 29
+    },
+    {
+      "fromId": "PRO-11-31",
+      "fromBook": "PRO",
+      "fromPosition": 19020,
+      "toId": "1PE-4-18",
+      "toBook": "1PE",
+      "toPosition": 35177,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "PRO-17-13",
+      "fromBook": "PRO",
+      "fromPosition": 19187,
+      "toId": "1TH-5-15",
+      "toBook": "1TH",
+      "toPosition": 34349,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "PRO-17-13",
+      "fromBook": "PRO",
+      "fromPosition": 19187,
+      "toId": "ROM-12-17",
+      "toBook": "ROM",
+      "toPosition": 32976,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "PRO-17-13",
+      "fromBook": "PRO",
+      "fromPosition": 19187,
+      "toId": "1PE-3-9",
+      "toBook": "1PE",
+      "toPosition": 35146,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "PRO-17-27",
+      "fromBook": "PRO",
+      "fromPosition": 19201,
+      "toId": "JAS-1-19",
+      "toBook": "JAS",
+      "toPosition": 34998,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "PRO-20-9",
+      "fromBook": "PRO",
+      "fromPosition": 19264,
+      "toId": "1JN-1-8",
+      "toBook": "1JN",
+      "toPosition": 35261,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "PRO-20-20",
+      "fromBook": "PRO",
+      "fromPosition": 19275,
+      "toId": "MAT-15-4",
+      "toBook": "MAT",
+      "toPosition": 28355,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "PRO-20-22",
+      "fromBook": "PRO",
+      "fromPosition": 19277,
+      "toId": "ROM-12-17",
+      "toBook": "ROM",
+      "toPosition": 32976,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 144
+    },
+    {
+      "fromId": "PRO-20-22",
+      "fromBook": "PRO",
+      "fromPosition": 19277,
+      "toId": "1PE-3-9",
+      "toBook": "1PE",
+      "toPosition": 35146,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 99
+    },
+    {
+      "fromId": "PRO-20-22",
+      "fromBook": "PRO",
+      "fromPosition": 19277,
+      "toId": "1TH-5-15",
+      "toBook": "1TH",
+      "toPosition": 34349,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 124
+    },
+    {
+      "fromId": "PRO-25-21",
+      "fromBook": "PRO",
+      "fromPosition": 19435,
+      "toId": "ROM-12-20",
+      "toBook": "ROM",
+      "toPosition": 32979,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "PRO-26-11",
+      "fromBook": "PRO",
+      "fromPosition": 19453,
+      "toId": "2PE-2-22",
+      "toBook": "2PE",
+      "toPosition": 35235,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "ECC-5-14",
+      "fromBook": "ECC",
+      "fromPosition": 19713,
+      "toId": "1TI-6-7",
+      "toBook": "1TI",
+      "toPosition": 34508,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ECC-7-21",
+      "fromBook": "ECC",
+      "fromPosition": 19750,
+      "toId": "1JN-1-8",
+      "toBook": "1JN",
+      "toPosition": 35261,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-1-6",
+      "fromBook": "WIS",
+      "fromPosition": 19960,
+      "toId": "GAL-5-22",
+      "toBook": "GAL",
+      "toPosition": 33897,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-2-6",
+      "fromBook": "WIS",
+      "fromPosition": 19976,
+      "toId": "1CO-15-32",
+      "toBook": "1CO",
+      "toPosition": 33464,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-2-13",
+      "fromBook": "WIS",
+      "fromPosition": 19983,
+      "toId": "MAT-27-42",
+      "toBook": "MAT",
+      "toPosition": 28888,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-3-7",
+      "fromBook": "WIS",
+      "fromPosition": 20002,
+      "toId": "MAT-13-41",
+      "toBook": "MAT",
+      "toPosition": 28298,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-3-8",
+      "fromBook": "WIS",
+      "fromPosition": 20003,
+      "toId": "1CO-6-2",
+      "toBook": "1CO",
+      "toPosition": 33183,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-4-4",
+      "fromBook": "WIS",
+      "fromPosition": 20018,
+      "toId": "MAT-7-27",
+      "toBook": "MAT",
+      "toPosition": 28061,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-4-10",
+      "fromBook": "WIS",
+      "fromPosition": 20024,
+      "toId": "HEB-11-5",
+      "toBook": "HEB",
+      "toPosition": 34890,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-5-18",
+      "fromBook": "WIS",
+      "fromPosition": 20052,
+      "toId": "EPH-6-13",
+      "toBook": "EPH",
+      "toPosition": 34063,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-4",
+      "fromBook": "WIS",
+      "fromPosition": 20062,
+      "toId": "ROM-13-1",
+      "toBook": "ROM",
+      "toPosition": 32981,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-8",
+      "fromBook": "WIS",
+      "fromPosition": 20066,
+      "toId": "EPH-6-9",
+      "toBook": "EPH",
+      "toPosition": 34059,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-8",
+      "fromBook": "WIS",
+      "fromPosition": 20066,
+      "toId": "ROM-2-11",
+      "toBook": "ROM",
+      "toPosition": 32687,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-8",
+      "fromBook": "WIS",
+      "fromPosition": 20066,
+      "toId": "1PE-1-17",
+      "toBook": "1PE",
+      "toPosition": 35104,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-8",
+      "fromBook": "WIS",
+      "fromPosition": 20066,
+      "toId": "GAL-2-6",
+      "toBook": "GAL",
+      "toPosition": 33800,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-8",
+      "fromBook": "WIS",
+      "fromPosition": 20066,
+      "toId": "COL-3-25",
+      "toBook": "COL",
+      "toPosition": 34255,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-6-8",
+      "fromBook": "WIS",
+      "fromPosition": 20066,
+      "toId": "ACT-10-34",
+      "toBook": "ACT",
+      "toPosition": 32009,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-7-6",
+      "fromBook": "WIS",
+      "fromPosition": 20091,
+      "toId": "1TI-6-7",
+      "toBook": "1TI",
+      "toPosition": 34508,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-7-11",
+      "fromBook": "WIS",
+      "fromPosition": 20096,
+      "toId": "MAT-6-33",
+      "toBook": "MAT",
+      "toPosition": 28033,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-7-26",
+      "fromBook": "WIS",
+      "fromPosition": 20111,
+      "toId": "HEB-1-3",
+      "toBook": "HEB",
+      "toPosition": 34679,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-9-9",
+      "fromBook": "WIS",
+      "fromPosition": 20145,
+      "toId": "JHN-1-1",
+      "toBook": "JHN",
+      "toPosition": 30761,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-9-13",
+      "fromBook": "WIS",
+      "fromPosition": 20149,
+      "toId": "1CO-2-16",
+      "toBook": "1CO",
+      "toPosition": 33124,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-9-13",
+      "fromBook": "WIS",
+      "fromPosition": 20149,
+      "toId": "ROM-11-34",
+      "toBook": "ROM",
+      "toPosition": 32957,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-10-14",
+      "fromBook": "WIS",
+      "fromPosition": 20169,
+      "toId": "ACT-7-9",
+      "toBook": "ACT",
+      "toPosition": 31842,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-12-13",
+      "fromBook": "WIS",
+      "fromPosition": 20216,
+      "toId": "1PE-5-7",
+      "toBook": "1PE",
+      "toPosition": 35185,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-12-24",
+      "fromBook": "WIS",
+      "fromPosition": 20227,
+      "toId": "ROM-1-23",
+      "toBook": "ROM",
+      "toPosition": 32667,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-13-1",
+      "fromBook": "WIS",
+      "fromPosition": 20231,
+      "toId": "ROM-1-18",
+      "toBook": "ROM",
+      "toPosition": 32662,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-13-7",
+      "fromBook": "WIS",
+      "fromPosition": 20237,
+      "toId": "ROM-1-21",
+      "toBook": "ROM",
+      "toPosition": 32665,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-15-7",
+      "fromBook": "WIS",
+      "fromPosition": 20287,
+      "toId": "ROM-9-21",
+      "toBook": "ROM",
+      "toPosition": 32890,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-16-9",
+      "fromBook": "WIS",
+      "fromPosition": 20308,
+      "toId": "REV-9-7",
+      "toBook": "REV",
+      "toPosition": 35561,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-16-20",
+      "fromBook": "WIS",
+      "fromPosition": 20319,
+      "toId": "JHN-6-31",
+      "toBook": "JHN",
+      "toPosition": 31004,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "WIS-16-26",
+      "fromBook": "WIS",
+      "fromPosition": 20325,
+      "toId": "MAT-4-4",
+      "toBook": "MAT",
+      "toPosition": 27931,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-2-1",
+      "fromBook": "SIR",
+      "fromPosition": 20434,
+      "toId": "2TI-3-12",
+      "toBook": "2TI",
+      "toPosition": 34578,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-2-1",
+      "fromBook": "SIR",
+      "fromPosition": 20434,
+      "toId": "MAT-4-1",
+      "toBook": "MAT",
+      "toPosition": 27928,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-2-18",
+      "fromBook": "SIR",
+      "fromPosition": 20451,
+      "toId": "JHN-14-23",
+      "toBook": "JHN",
+      "toPosition": 31408,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-3-9",
+      "fromBook": "SIR",
+      "fromPosition": 20465,
+      "toId": "MRK-7-10",
+      "toBook": "MRK",
+      "toPosition": 29189,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-3-9",
+      "fromBook": "SIR",
+      "fromPosition": 20465,
+      "toId": "EPH-6-2",
+      "toBook": "EPH",
+      "toPosition": 34052,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-3-9",
+      "fromBook": "SIR",
+      "fromPosition": 20465,
+      "toId": "MAT-15-4",
+      "toBook": "MAT",
+      "toPosition": 28355,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-3-20",
+      "fromBook": "SIR",
+      "fromPosition": 20476,
+      "toId": "PHP-2-3",
+      "toBook": "PHP",
+      "toPosition": 34107,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-6-2",
+      "fromBook": "SIR",
+      "fromPosition": 20546,
+      "toId": "ROM-12-6",
+      "toBook": "ROM",
+      "toPosition": 32965,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-6-2",
+      "fromBook": "SIR",
+      "fromPosition": 20546,
+      "toId": "PHP-2-3",
+      "toBook": "PHP",
+      "toPosition": 34107,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-7-5",
+      "fromBook": "SIR",
+      "fromPosition": 20586,
+      "toId": "LUK-18-11",
+      "toBook": "LUK",
+      "toPosition": 30415,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-7-38",
+      "fromBook": "SIR",
+      "fromPosition": 20619,
+      "toId": "ROM-12-15",
+      "toBook": "ROM",
+      "toPosition": 32974,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-7-39",
+      "fromBook": "SIR",
+      "fromPosition": 20620,
+      "toId": "MAT-25-36",
+      "toBook": "MAT",
+      "toPosition": 28761,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-8-2",
+      "fromBook": "SIR",
+      "fromPosition": 20623,
+      "toId": "MAT-25-25",
+      "toBook": "MAT",
+      "toPosition": 28750,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-8-6",
+      "fromBook": "SIR",
+      "fromPosition": 20627,
+      "toId": "2CO-2-6",
+      "toBook": "2CO",
+      "toPosition": 33544,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-8-6",
+      "fromBook": "SIR",
+      "fromPosition": 20627,
+      "toId": "GAL-6-1",
+      "toBook": "GAL",
+      "toPosition": 33902,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-9-8",
+      "fromBook": "SIR",
+      "fromPosition": 20651,
+      "toId": "MAT-5-28",
+      "toBook": "MAT",
+      "toPosition": 27980,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-1",
+      "fromBook": "SIR",
+      "fromPosition": 20703,
+      "toId": "JHN-7-18",
+      "toBook": "JHN",
+      "toPosition": 31063,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-2",
+      "fromBook": "SIR",
+      "fromPosition": 20704,
+      "toId": "JAS-2-9",
+      "toBook": "JAS",
+      "toPosition": 35015,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-2",
+      "fromBook": "SIR",
+      "fromPosition": 20704,
+      "toId": "2CO-10-10",
+      "toBook": "2CO",
+      "toPosition": 33695,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-2",
+      "fromBook": "SIR",
+      "fromPosition": 20704,
+      "toId": "JAS-2-1",
+      "toBook": "JAS",
+      "toPosition": 35007,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-4",
+      "fromBook": "SIR",
+      "fromPosition": 20706,
+      "toId": "ACT-12-22",
+      "toBook": "ACT",
+      "toPosition": 32075,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-4",
+      "fromBook": "SIR",
+      "fromPosition": 20706,
+      "toId": "ACT-12-12",
+      "toBook": "ACT",
+      "toPosition": 32065,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-10",
+      "fromBook": "SIR",
+      "fromPosition": 20712,
+      "toId": "1TI-6-9",
+      "toBook": "1TI",
+      "toPosition": 34510,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-11-19",
+      "fromBook": "SIR",
+      "fromPosition": 20721,
+      "toId": "LUK-18-19",
+      "toBook": "LUK",
+      "toPosition": 30423,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-12-4",
+      "fromBook": "SIR",
+      "fromPosition": 20742,
+      "toId": "GAL-6-7",
+      "toBook": "GAL",
+      "toPosition": 33908,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-13-22",
+      "fromBook": "SIR",
+      "fromPosition": 20779,
+      "toId": "2CO-6-14",
+      "toBook": "2CO",
+      "toPosition": 33626,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-14-13",
+      "fromBook": "SIR",
+      "fromPosition": 20802,
+      "toId": "LUK-16-9",
+      "toBook": "LUK",
+      "toPosition": 30345,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-14-18",
+      "fromBook": "SIR",
+      "fromPosition": 20807,
+      "toId": "JAS-1-10",
+      "toBook": "JAS",
+      "toPosition": 34989,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-14-18",
+      "fromBook": "SIR",
+      "fromPosition": 20807,
+      "toId": "1PE-1-24",
+      "toBook": "1PE",
+      "toPosition": 35111,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-15-3",
+      "fromBook": "SIR",
+      "fromPosition": 20819,
+      "toId": "JHN-4-10",
+      "toBook": "JHN",
+      "toPosition": 30882,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-15-16",
+      "fromBook": "SIR",
+      "fromPosition": 20832,
+      "toId": "MAT-19-17",
+      "toBook": "MAT",
+      "toPosition": 28496,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-15-16",
+      "fromBook": "SIR",
+      "fromPosition": 20832,
+      "toId": "JHN-8-32",
+      "toBook": "JHN",
+      "toPosition": 31130,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-15-16",
+      "fromBook": "SIR",
+      "fromPosition": 20832,
+      "toId": "JHN-8-31",
+      "toBook": "JHN",
+      "toPosition": 31129,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-15-20",
+      "fromBook": "SIR",
+      "fromPosition": 20836,
+      "toId": "HEB-4-13",
+      "toBook": "HEB",
+      "toPosition": 34740,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-16-15",
+      "fromBook": "SIR",
+      "fromPosition": 20853,
+      "toId": "ROM-2-6",
+      "toBook": "ROM",
+      "toPosition": 32682,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-17-14",
+      "fromBook": "SIR",
+      "fromPosition": 20883,
+      "toId": "ROM-13-1",
+      "toBook": "ROM",
+      "toPosition": 32981,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-17-19",
+      "fromBook": "SIR",
+      "fromPosition": 20888,
+      "toId": "MAT-25-35",
+      "toBook": "MAT",
+      "toPosition": 28760,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-18-20",
+      "fromBook": "SIR",
+      "fromPosition": 20920,
+      "toId": "1CO-11-28",
+      "toBook": "1CO",
+      "toPosition": 33342,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-18-22",
+      "fromBook": "SIR",
+      "fromPosition": 20922,
+      "toId": "LUK-18-1",
+      "toBook": "LUK",
+      "toPosition": 30405,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-18-22",
+      "fromBook": "SIR",
+      "fromPosition": 20922,
+      "toId": "1TH-5-17",
+      "toBook": "1TH",
+      "toPosition": 34351,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-18-30",
+      "fromBook": "SIR",
+      "fromPosition": 20930,
+      "toId": "ROM-6-12",
+      "toBook": "ROM",
+      "toPosition": 32794,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-18-30",
+      "fromBook": "SIR",
+      "fromPosition": 20930,
+      "toId": "ROM-6-13",
+      "toBook": "ROM",
+      "toPosition": 32795,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-19-13",
+      "fromBook": "SIR",
+      "fromPosition": 20946,
+      "toId": "MAT-18-15",
+      "toBook": "MAT",
+      "toPosition": 28459,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-19-13",
+      "fromBook": "SIR",
+      "fromPosition": 20946,
+      "toId": "LUK-17-3",
+      "toBook": "LUK",
+      "toPosition": 30370,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-19-17",
+      "fromBook": "SIR",
+      "fromPosition": 20950,
+      "toId": "JAS-3-8",
+      "toBook": "JAS",
+      "toPosition": 35040,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-23-9",
+      "fromBook": "SIR",
+      "fromPosition": 21067,
+      "toId": "MAT-5-33",
+      "toBook": "MAT",
+      "toPosition": 27985,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-24-29",
+      "fromBook": "SIR",
+      "fromPosition": 21125,
+      "toId": "JHN-6-35",
+      "toBook": "JHN",
+      "toPosition": 31008,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-25-11",
+      "fromBook": "SIR",
+      "fromPosition": 21154,
+      "toId": "JAS-3-2",
+      "toBook": "JAS",
+      "toPosition": 35034,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-28-1",
+      "fromBook": "SIR",
+      "fromPosition": 21241,
+      "toId": "MAT-6-14",
+      "toBook": "MAT",
+      "toPosition": 28014,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-28-1",
+      "fromBook": "SIR",
+      "fromPosition": 21241,
+      "toId": "ROM-12-19",
+      "toBook": "ROM",
+      "toPosition": 32978,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-28-1",
+      "fromBook": "SIR",
+      "fromPosition": 21241,
+      "toId": "MRK-11-25",
+      "toBook": "MRK",
+      "toPosition": 29381,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-30-25",
+      "fromBook": "SIR",
+      "fromPosition": 21330,
+      "toId": "2CO-7-10",
+      "toBook": "2CO",
+      "toPosition": 33640,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-33-13",
+      "fromBook": "SIR",
+      "fromPosition": 21415,
+      "toId": "ROM-9-11",
+      "toBook": "ROM",
+      "toPosition": 32880,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-34-31",
+      "fromBook": "SIR",
+      "fromPosition": 21466,
+      "toId": "2PE-2-21",
+      "toBook": "2PE",
+      "toPosition": 35234,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-35-11",
+      "fromBook": "SIR",
+      "fromPosition": 21477,
+      "toId": "2CO-9-7",
+      "toBook": "2CO",
+      "toPosition": 33677,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-35-15",
+      "fromBook": "SIR",
+      "fromPosition": 21481,
+      "toId": "GAL-2-6",
+      "toBook": "GAL",
+      "toPosition": 33800,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-35-15",
+      "fromBook": "SIR",
+      "fromPosition": 21481,
+      "toId": "ROM-2-11",
+      "toBook": "ROM",
+      "toPosition": 32687,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-35-15",
+      "fromBook": "SIR",
+      "fromPosition": 21481,
+      "toId": "1PE-1-17",
+      "toBook": "1PE",
+      "toPosition": 35104,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-35-15",
+      "fromBook": "SIR",
+      "fromPosition": 21481,
+      "toId": "COL-3-25",
+      "toBook": "COL",
+      "toPosition": 34255,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-35-15",
+      "fromBook": "SIR",
+      "fromPosition": 21481,
+      "toId": "ACT-10-34",
+      "toBook": "ACT",
+      "toPosition": 32009,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-39-21",
+      "fromBook": "SIR",
+      "fromPosition": 21614,
+      "toId": "MRK-7-37",
+      "toBook": "MRK",
+      "toPosition": 29216,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-39-39",
+      "fromBook": "SIR",
+      "fromPosition": 21632,
+      "toId": "MRK-7-37",
+      "toBook": "MRK",
+      "toPosition": 29216,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-41-27",
+      "fromBook": "SIR",
+      "fromPosition": 21693,
+      "toId": "MAT-5-28",
+      "toBook": "MAT",
+      "toPosition": 27980,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-42-1",
+      "fromBook": "SIR",
+      "fromPosition": 21695,
+      "toId": "JAS-2-1",
+      "toBook": "JAS",
+      "toPosition": 35007,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-44-16",
+      "fromBook": "SIR",
+      "fromPosition": 21773,
+      "toId": "HEB-11-5",
+      "toBook": "HEB",
+      "toPosition": 34890,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-44-19",
+      "fromBook": "SIR",
+      "fromPosition": 21776,
+      "toId": "HEB-11-7",
+      "toBook": "HEB",
+      "toPosition": 34892,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-44-21",
+      "fromBook": "SIR",
+      "fromPosition": 21778,
+      "toId": "GAL-3-6",
+      "toBook": "GAL",
+      "toPosition": 33821,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-45-4",
+      "fromBook": "SIR",
+      "fromPosition": 21788,
+      "toId": "HEB-3-5",
+      "toBook": "HEB",
+      "toPosition": 34713,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-45-4",
+      "fromBook": "SIR",
+      "fromPosition": 21788,
+      "toId": "HEB-3-2",
+      "toBook": "HEB",
+      "toPosition": 34710,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-45-4",
+      "fromBook": "SIR",
+      "fromPosition": 21788,
+      "toId": "HEB-3-3",
+      "toBook": "HEB",
+      "toPosition": 34711,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "SIR-45-4",
+      "fromBook": "SIR",
+      "fromPosition": 21788,
+      "toId": "HEB-3-4",
+      "toBook": "HEB",
+      "toPosition": 34712,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-1-9",
+      "fromBook": "ISA",
+      "fromPosition": 21994,
+      "toId": "ROM-9-29",
+      "toBook": "ROM",
+      "toPosition": 32898,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "ISA-1-16",
+      "fromBook": "ISA",
+      "fromPosition": 22001,
+      "toId": "1PE-3-11",
+      "toBook": "1PE",
+      "toPosition": 35148,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "ISA-2-19",
+      "fromBook": "ISA",
+      "fromPosition": 22035,
+      "toId": "REV-6-16",
+      "toBook": "REV",
+      "toPosition": 35523,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-2-19",
+      "fromBook": "ISA",
+      "fromPosition": 22035,
+      "toId": "LUK-23-30",
+      "toBook": "LUK",
+      "toPosition": 30681,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "ISA-5-1",
+      "fromBook": "ISA",
+      "fromPosition": 22071,
+      "toId": "MAT-21-33",
+      "toBook": "MAT",
+      "toPosition": 28576,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "ISA-5-21",
+      "fromBook": "ISA",
+      "fromPosition": 22091,
+      "toId": "ROM-12-16",
+      "toBook": "ROM",
+      "toPosition": 32975,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "ISA-6-3",
+      "fromBook": "ISA",
+      "fromPosition": 22103,
+      "toId": "REV-4-8",
+      "toBook": "REV",
+      "toPosition": 35490,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 19
+    },
+    {
+      "fromId": "ISA-6-9",
+      "fromBook": "ISA",
+      "fromPosition": 22109,
+      "toId": "MAT-13-14",
+      "toBook": "MAT",
+      "toPosition": 28271,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 90
+    },
+    {
+      "fromId": "ISA-6-9",
+      "fromBook": "ISA",
+      "fromPosition": 22109,
+      "toId": "ACT-28-26",
+      "toBook": "ACT",
+      "toPosition": 32639,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 50
+    },
+    {
+      "fromId": "ISA-6-9",
+      "fromBook": "ISA",
+      "fromPosition": 22109,
+      "toId": "LUK-8-10",
+      "toBook": "LUK",
+      "toPosition": 29971,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 75
+    },
+    {
+      "fromId": "ISA-6-9",
+      "fromBook": "ISA",
+      "fromPosition": 22109,
+      "toId": "JHN-12-40",
+      "toBook": "JHN",
+      "toPosition": 31337,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 57
+    },
+    {
+      "fromId": "ISA-6-9",
+      "fromBook": "ISA",
+      "fromPosition": 22109,
+      "toId": "ROM-11-8",
+      "toBook": "ROM",
+      "toPosition": 32931,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 43
+    },
+    {
+      "fromId": "ISA-6-9",
+      "fromBook": "ISA",
+      "fromPosition": 22109,
+      "toId": "MRK-4-12",
+      "toBook": "MRK",
+      "toPosition": 29052,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 68
+    },
+    {
+      "fromId": "ISA-7-14",
+      "fromBook": "ISA",
+      "fromPosition": 22127,
+      "toId": "LUK-1-31",
+      "toBook": "LUK",
+      "toPosition": 29640,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 34
+    },
+    {
+      "fromId": "ISA-7-14",
+      "fromBook": "ISA",
+      "fromPosition": 22127,
+      "toId": "MAT-1-23",
+      "toBook": "MAT",
+      "toPosition": 27885,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 118
+    },
+    {
+      "fromId": "ISA-8-14",
+      "fromBook": "ISA",
+      "fromPosition": 22152,
+      "toId": "1PE-4-6",
+      "toBook": "1PE",
+      "toPosition": 35165,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-8-14",
+      "fromBook": "ISA",
+      "fromPosition": 22152,
+      "toId": "ROM-9-32",
+      "toBook": "ROM",
+      "toPosition": 32901,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "ISA-8-14",
+      "fromBook": "ISA",
+      "fromPosition": 22152,
+      "toId": "LUK-2-34",
+      "toBook": "LUK",
+      "toPosition": 29723,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "ISA-9-1",
+      "fromBook": "ISA",
+      "fromPosition": 22161,
+      "toId": "MAT-4-15",
+      "toBook": "MAT",
+      "toPosition": 27942,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "ISA-10-22",
+      "fromBook": "ISA",
+      "fromPosition": 22203,
+      "toId": "ROM-9-27",
+      "toBook": "ROM",
+      "toPosition": 32896,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "ISA-11-1",
+      "fromBook": "ISA",
+      "fromPosition": 22216,
+      "toId": "ACT-13-23",
+      "toBook": "ACT",
+      "toPosition": 32101,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "ISA-11-4",
+      "fromBook": "ISA",
+      "fromPosition": 22219,
+      "toId": "2TH-2-8",
+      "toBook": "2TH",
+      "toPosition": 34382,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-11-10",
+      "fromBook": "ISA",
+      "fromPosition": 22225,
+      "toId": "ROM-15-12",
+      "toBook": "ROM",
+      "toPosition": 33029,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 18
+    },
+    {
+      "fromId": "ISA-13-10",
+      "fromBook": "ISA",
+      "fromPosition": 22247,
+      "toId": "MAT-24-29",
+      "toBook": "MAT",
+      "toPosition": 28703,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "ISA-13-10",
+      "fromBook": "ISA",
+      "fromPosition": 22247,
+      "toId": "MRK-13-24",
+      "toBook": "MRK",
+      "toPosition": 29457,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "ISA-13-10",
+      "fromBook": "ISA",
+      "fromPosition": 22247,
+      "toId": "LUK-21-25",
+      "toBook": "LUK",
+      "toPosition": 30567,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "ISA-20-2",
+      "fromBook": "ISA",
+      "fromPosition": 22362,
+      "toId": "MAT-3-4",
+      "toBook": "MAT",
+      "toPosition": 27914,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "ISA-21-9",
+      "fromBook": "ISA",
+      "fromPosition": 22375,
+      "toId": "REV-14-8",
+      "toBook": "REV",
+      "toPosition": 35649,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "ISA-22-13",
+      "fromBook": "ISA",
+      "fromPosition": 22396,
+      "toId": "1CO-15-32",
+      "toBook": "1CO",
+      "toPosition": 33464,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "ISA-22-22",
+      "fromBook": "ISA",
+      "fromPosition": 22405,
+      "toId": "REV-3-7",
+      "toBook": "REV",
+      "toPosition": 35467,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 34
+    },
+    {
+      "fromId": "ISA-24-23",
+      "fromBook": "ISA",
+      "fromPosition": 22449,
+      "toId": "ACT-2-20",
+      "toBook": "ACT",
+      "toPosition": 31686,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-25-8",
+      "fromBook": "ISA",
+      "fromPosition": 22457,
+      "toId": "REV-7-17",
+      "toBook": "REV",
+      "toPosition": 35541,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 34
+    },
+    {
+      "fromId": "ISA-25-8",
+      "fromBook": "ISA",
+      "fromPosition": 22457,
+      "toId": "REV-21-4",
+      "toBook": "REV",
+      "toPosition": 35772,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 51
+    },
+    {
+      "fromId": "ISA-28-11",
+      "fromBook": "ISA",
+      "fromPosition": 22506,
+      "toId": "1CO-14-21",
+      "toBook": "1CO",
+      "toPosition": 33413,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-28-16",
+      "fromBook": "ISA",
+      "fromPosition": 22511,
+      "toId": "MAT-21-42",
+      "toBook": "MAT",
+      "toPosition": 28585,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 49
+    },
+    {
+      "fromId": "ISA-28-16",
+      "fromBook": "ISA",
+      "fromPosition": 22511,
+      "toId": "ROM-9-33",
+      "toBook": "ROM",
+      "toPosition": 32902,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 67
+    },
+    {
+      "fromId": "ISA-28-16",
+      "fromBook": "ISA",
+      "fromPosition": 22511,
+      "toId": "ACT-4-11",
+      "toBook": "ACT",
+      "toPosition": 31750,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 85
+    },
+    {
+      "fromId": "ISA-28-16",
+      "fromBook": "ISA",
+      "fromPosition": 22511,
+      "toId": "1PE-2-6",
+      "toBook": "1PE",
+      "toPosition": 35118,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 79
+    },
+    {
+      "fromId": "ISA-29-13",
+      "fromBook": "ISA",
+      "fromPosition": 22537,
+      "toId": "MAT-15-8",
+      "toBook": "MAT",
+      "toPosition": 28359,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-29-13",
+      "fromBook": "ISA",
+      "fromPosition": 22537,
+      "toId": "MRK-7-6",
+      "toBook": "MRK",
+      "toPosition": 29185,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 26
+    },
+    {
+      "fromId": "ISA-29-14",
+      "fromBook": "ISA",
+      "fromPosition": 22538,
+      "toId": "1CO-1-19",
+      "toBook": "1CO",
+      "toPosition": 33096,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "ISA-33-18",
+      "fromBook": "ISA",
+      "fromPosition": 22628,
+      "toId": "1CO-1-20",
+      "toBook": "1CO",
+      "toPosition": 33097,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "ISA-40-3",
+      "fromBook": "ISA",
+      "fromPosition": 22754,
+      "toId": "MRK-1-3",
+      "toBook": "MRK",
+      "toPosition": 28935,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 84
+    },
+    {
+      "fromId": "ISA-40-3",
+      "fromBook": "ISA",
+      "fromPosition": 22754,
+      "toId": "MAT-3-3",
+      "toBook": "MAT",
+      "toPosition": 27913,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 63
+    },
+    {
+      "fromId": "ISA-40-3",
+      "fromBook": "ISA",
+      "fromPosition": 22754,
+      "toId": "LUK-3-4",
+      "toBook": "LUK",
+      "toPosition": 29745,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 28
+    },
+    {
+      "fromId": "ISA-40-3",
+      "fromBook": "ISA",
+      "fromPosition": 22754,
+      "toId": "JHN-1-23",
+      "toBook": "JHN",
+      "toPosition": 30783,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 70
+    },
+    {
+      "fromId": "ISA-40-6",
+      "fromBook": "ISA",
+      "fromPosition": 22757,
+      "toId": "JAS-1-10",
+      "toBook": "JAS",
+      "toPosition": 34989,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "ISA-40-6",
+      "fromBook": "ISA",
+      "fromPosition": 22757,
+      "toId": "1PE-1-24",
+      "toBook": "1PE",
+      "toPosition": 35111,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-40-11",
+      "fromBook": "ISA",
+      "fromPosition": 22762,
+      "toId": "JHN-10-11",
+      "toBook": "JHN",
+      "toPosition": 31209,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-40-13",
+      "fromBook": "ISA",
+      "fromPosition": 22764,
+      "toId": "ROM-11-34",
+      "toBook": "ROM",
+      "toPosition": 32957,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-40-18",
+      "fromBook": "ISA",
+      "fromPosition": 22769,
+      "toId": "ACT-7-40",
+      "toBook": "ACT",
+      "toPosition": 31873,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-41-4",
+      "fromBook": "ISA",
+      "fromPosition": 22786,
+      "toId": "REV-22-13",
+      "toBook": "REV",
+      "toPosition": 35808,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "ISA-41-4",
+      "fromBook": "ISA",
+      "fromPosition": 22786,
+      "toId": "REV-1-8",
+      "toBook": "REV",
+      "toPosition": 35419,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "ISA-41-4",
+      "fromBook": "ISA",
+      "fromPosition": 22786,
+      "toId": "REV-1-17",
+      "toBook": "REV",
+      "toPosition": 35428,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "ISA-42-1",
+      "fromBook": "ISA",
+      "fromPosition": 22812,
+      "toId": "MAT-12-18",
+      "toBook": "MAT",
+      "toPosition": 28225,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 33
+    },
+    {
+      "fromId": "ISA-43-19",
+      "fromBook": "ISA",
+      "fromPosition": 22855,
+      "toId": "2CO-5-17",
+      "toBook": "2CO",
+      "toPosition": 33608,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 126
+    },
+    {
+      "fromId": "ISA-43-19",
+      "fromBook": "ISA",
+      "fromPosition": 22855,
+      "toId": "REV-21-5",
+      "toBook": "REV",
+      "toPosition": 35773,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 94
+    },
+    {
+      "fromId": "ISA-44-6",
+      "fromBook": "ISA",
+      "fromPosition": 22870,
+      "toId": "REV-22-13",
+      "toBook": "REV",
+      "toPosition": 35808,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 49
+    },
+    {
+      "fromId": "ISA-44-6",
+      "fromBook": "ISA",
+      "fromPosition": 22870,
+      "toId": "REV-1-8",
+      "toBook": "REV",
+      "toPosition": 35419,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 60
+    },
+    {
+      "fromId": "ISA-45-9",
+      "fromBook": "ISA",
+      "fromPosition": 22901,
+      "toId": "ROM-9-20",
+      "toBook": "ROM",
+      "toPosition": 32889,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "ISA-45-24",
+      "fromBook": "ISA",
+      "fromPosition": 22916,
+      "toId": "ROM-14-11",
+      "toBook": "ROM",
+      "toPosition": 33005,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-45-24",
+      "fromBook": "ISA",
+      "fromPosition": 22916,
+      "toId": "PHP-2-10",
+      "toBook": "PHP",
+      "toPosition": 34114,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-47-8",
+      "fromBook": "ISA",
+      "fromPosition": 22939,
+      "toId": "REV-18-7",
+      "toBook": "REV",
+      "toPosition": 35715,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "ISA-48-12",
+      "fromBook": "ISA",
+      "fromPosition": 22958,
+      "toId": "REV-22-13",
+      "toBook": "REV",
+      "toPosition": 35808,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "ISA-48-12",
+      "fromBook": "ISA",
+      "fromPosition": 22958,
+      "toId": "REV-1-8",
+      "toBook": "REV",
+      "toPosition": 35419,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "ISA-48-20",
+      "fromBook": "ISA",
+      "fromPosition": 22966,
+      "toId": "REV-18-4",
+      "toBook": "REV",
+      "toPosition": 35712,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "ISA-49-1",
+      "fromBook": "ISA",
+      "fromPosition": 22969,
+      "toId": "GAL-1-15",
+      "toBook": "GAL",
+      "toPosition": 33785,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "ISA-49-2",
+      "fromBook": "ISA",
+      "fromPosition": 22970,
+      "toId": "EPH-6-16",
+      "toBook": "EPH",
+      "toPosition": 34066,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-49-2",
+      "fromBook": "ISA",
+      "fromPosition": 22970,
+      "toId": "REV-1-16",
+      "toBook": "REV",
+      "toPosition": 35427,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "ISA-49-2",
+      "fromBook": "ISA",
+      "fromPosition": 22970,
+      "toId": "HEB-4-12",
+      "toBook": "HEB",
+      "toPosition": 34739,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "ISA-49-6",
+      "fromBook": "ISA",
+      "fromPosition": 22974,
+      "toId": "ACT-13-47",
+      "toBook": "ACT",
+      "toPosition": 32125,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 49
+    },
+    {
+      "fromId": "ISA-49-8",
+      "fromBook": "ISA",
+      "fromPosition": 22976,
+      "toId": "2CO-6-2",
+      "toBook": "2CO",
+      "toPosition": 33614,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 25
+    },
+    {
+      "fromId": "ISA-49-10",
+      "fromBook": "ISA",
+      "fromPosition": 22978,
+      "toId": "REV-7-16",
+      "toBook": "REV",
+      "toPosition": 35540,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-50-6",
+      "fromBook": "ISA",
+      "fromPosition": 23000,
+      "toId": "MAT-26-67",
+      "toBook": "MAT",
+      "toPosition": 28838,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 22
+    },
+    {
+      "fromId": "ISA-50-8",
+      "fromBook": "ISA",
+      "fromPosition": 23002,
+      "toId": "ROM-8-33",
+      "toBook": "ROM",
+      "toPosition": 32863,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "ISA-52-5",
+      "fromBook": "ISA",
+      "fromPosition": 23033,
+      "toId": "ROM-2-24",
+      "toBook": "ROM",
+      "toPosition": 32700,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "ISA-52-7",
+      "fromBook": "ISA",
+      "fromPosition": 23035,
+      "toId": "ROM-10-15",
+      "toBook": "ROM",
+      "toPosition": 32917,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 32
+    },
+    {
+      "fromId": "ISA-52-11",
+      "fromBook": "ISA",
+      "fromPosition": 23039,
+      "toId": "2CO-6-17",
+      "toBook": "2CO",
+      "toPosition": 33629,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-52-15",
+      "fromBook": "ISA",
+      "fromPosition": 23043,
+      "toId": "ROM-15-21",
+      "toBook": "ROM",
+      "toPosition": 33038,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "ISA-53-1",
+      "fromBook": "ISA",
+      "fromPosition": 23044,
+      "toId": "ROM-10-16",
+      "toBook": "ROM",
+      "toPosition": 32918,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 47
+    },
+    {
+      "fromId": "ISA-53-1",
+      "fromBook": "ISA",
+      "fromPosition": 23044,
+      "toId": "JHN-12-38",
+      "toBook": "JHN",
+      "toPosition": 31335,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 66
+    },
+    {
+      "fromId": "ISA-53-3",
+      "fromBook": "ISA",
+      "fromPosition": 23046,
+      "toId": "MRK-9-11",
+      "toBook": "MRK",
+      "toPosition": 29266,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-53-4",
+      "fromBook": "ISA",
+      "fromPosition": 23047,
+      "toId": "MAT-8-17",
+      "toBook": "MAT",
+      "toPosition": 28080,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 65
+    },
+    {
+      "fromId": "ISA-53-5",
+      "fromBook": "ISA",
+      "fromPosition": 23048,
+      "toId": "1CO-15-3",
+      "toBook": "1CO",
+      "toPosition": 33435,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 34
+    },
+    {
+      "fromId": "ISA-53-7",
+      "fromBook": "ISA",
+      "fromPosition": 23050,
+      "toId": "ACT-8-32",
+      "toBook": "ACT",
+      "toPosition": 31924,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 30
+    },
+    {
+      "fromId": "ISA-53-7",
+      "fromBook": "ISA",
+      "fromPosition": 23050,
+      "toId": "MAT-26-63",
+      "toBook": "MAT",
+      "toPosition": 28834,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 27
+    },
+    {
+      "fromId": "ISA-53-9",
+      "fromBook": "ISA",
+      "fromPosition": 23052,
+      "toId": "1PE-2-22",
+      "toBook": "1PE",
+      "toPosition": 35134,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "ISA-53-9",
+      "fromBook": "ISA",
+      "fromPosition": 23052,
+      "toId": "1JN-3-5",
+      "toBook": "1JN",
+      "toPosition": 35297,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "ISA-53-12",
+      "fromBook": "ISA",
+      "fromPosition": 23055,
+      "toId": "MRK-15-28",
+      "toBook": "MRK",
+      "toPosition": 29570,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-53-12",
+      "fromBook": "ISA",
+      "fromPosition": 23055,
+      "toId": "LUK-22-37",
+      "toBook": "LUK",
+      "toPosition": 30617,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 16
+    },
+    {
+      "fromId": "ISA-54-1",
+      "fromBook": "ISA",
+      "fromPosition": 23056,
+      "toId": "LUK-23-9",
+      "toBook": "LUK",
+      "toPosition": 30660,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-54-1",
+      "fromBook": "ISA",
+      "fromPosition": 23056,
+      "toId": "GAL-4-27",
+      "toBook": "GAL",
+      "toPosition": 33871,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 32
+    },
+    {
+      "fromId": "ISA-54-5",
+      "fromBook": "ISA",
+      "fromPosition": 23060,
+      "toId": "LUK-11-32",
+      "toBook": "LUK",
+      "toPosition": 30153,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-54-13",
+      "fromBook": "ISA",
+      "fromPosition": 23068,
+      "toId": "JHN-6-45",
+      "toBook": "JHN",
+      "toPosition": 31018,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 33
+    },
+    {
+      "fromId": "ISA-55-1",
+      "fromBook": "ISA",
+      "fromPosition": 23073,
+      "toId": "REV-22-17",
+      "toBook": "REV",
+      "toPosition": 35812,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 42
+    },
+    {
+      "fromId": "ISA-55-1",
+      "fromBook": "ISA",
+      "fromPosition": 23073,
+      "toId": "JHN-7-37",
+      "toBook": "JHN",
+      "toPosition": 31082,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 83
+    },
+    {
+      "fromId": "ISA-55-3",
+      "fromBook": "ISA",
+      "fromPosition": 23075,
+      "toId": "ACT-13-34",
+      "toBook": "ACT",
+      "toPosition": 32112,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "ISA-56-1",
+      "fromBook": "ISA",
+      "fromPosition": 23086,
+      "toId": "MAT-23-23",
+      "toBook": "MAT",
+      "toPosition": 28658,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-56-7",
+      "fromBook": "ISA",
+      "fromPosition": 23092,
+      "toId": "MAT-21-13",
+      "toBook": "MAT",
+      "toPosition": 28556,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-56-7",
+      "fromBook": "ISA",
+      "fromPosition": 23092,
+      "toId": "LUK-19-46",
+      "toBook": "LUK",
+      "toPosition": 30493,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-56-7",
+      "fromBook": "ISA",
+      "fromPosition": 23092,
+      "toId": "MRK-11-17",
+      "toBook": "MRK",
+      "toPosition": 29373,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 22
+    },
+    {
+      "fromId": "ISA-56-8",
+      "fromBook": "ISA",
+      "fromPosition": 23093,
+      "toId": "JHN-11-52",
+      "toBook": "JHN",
+      "toPosition": 31292,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "ISA-58-7",
+      "fromBook": "ISA",
+      "fromPosition": 23125,
+      "toId": "MAT-25-35",
+      "toBook": "MAT",
+      "toPosition": 28760,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 17
+    },
+    {
+      "fromId": "ISA-59-7",
+      "fromBook": "ISA",
+      "fromPosition": 23139,
+      "toId": "ROM-3-15",
+      "toBook": "ROM",
+      "toPosition": 32720,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "ISA-59-17",
+      "fromBook": "ISA",
+      "fromPosition": 23149,
+      "toId": "1TH-5-8",
+      "toBook": "1TH",
+      "toPosition": 34342,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "ISA-59-17",
+      "fromBook": "ISA",
+      "fromPosition": 23149,
+      "toId": "EPH-6-17",
+      "toBook": "EPH",
+      "toPosition": 34067,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "ISA-59-20",
+      "fromBook": "ISA",
+      "fromPosition": 23152,
+      "toId": "ROM-11-26",
+      "toBook": "ROM",
+      "toPosition": 32949,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 28
+    },
+    {
+      "fromId": "ISA-60-11",
+      "fromBook": "ISA",
+      "fromPosition": 23164,
+      "toId": "REV-21-25",
+      "toBook": "REV",
+      "toPosition": 35793,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 14
+    },
+    {
+      "fromId": "ISA-60-19",
+      "fromBook": "ISA",
+      "fromPosition": 23172,
+      "toId": "REV-22-5",
+      "toBook": "REV",
+      "toPosition": 35800,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "ISA-60-19",
+      "fromBook": "ISA",
+      "fromPosition": 23172,
+      "toId": "REV-21-23",
+      "toBook": "REV",
+      "toPosition": 35791,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 15
+    },
+    {
+      "fromId": "ISA-61-1",
+      "fromBook": "ISA",
+      "fromPosition": 23176,
+      "toId": "LUK-4-8",
+      "toBook": "LUK",
+      "toPosition": 29787,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-61-2",
+      "fromBook": "ISA",
+      "fromPosition": 23177,
+      "toId": "MAT-5-5",
+      "toBook": "MAT",
+      "toPosition": 27957,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ISA-62-11",
+      "fromBook": "ISA",
+      "fromPosition": 23197,
+      "toId": "MAT-21-5",
+      "toBook": "MAT",
+      "toPosition": 28548,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 57
+    },
+    {
+      "fromId": "ISA-63-2",
+      "fromBook": "ISA",
+      "fromPosition": 23200,
+      "toId": "REV-19-13",
+      "toBook": "REV",
+      "toPosition": 35745,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 19
+    },
+    {
+      "fromId": "ISA-64-4",
+      "fromBook": "ISA",
+      "fromPosition": 23221,
+      "toId": "1CO-2-9",
+      "toBook": "1CO",
+      "toPosition": 33117,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 40
+    },
+    {
+      "fromId": "ISA-65-1",
+      "fromBook": "ISA",
+      "fromPosition": 23230,
+      "toId": "ROM-10-20",
+      "toBook": "ROM",
+      "toPosition": 32922,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 36
+    },
+    {
+      "fromId": "ISA-65-17",
+      "fromBook": "ISA",
+      "fromPosition": 23246,
+      "toId": "REV-21-1",
+      "toBook": "REV",
+      "toPosition": 35769,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 22
+    },
+    {
+      "fromId": "ISA-66-1",
+      "fromBook": "ISA",
+      "fromPosition": 23255,
+      "toId": "ACT-17-24",
+      "toBook": "ACT",
+      "toPosition": 32262,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 35
+    },
+    {
+      "fromId": "ISA-66-1",
+      "fromBook": "ISA",
+      "fromPosition": 23255,
+      "toId": "ACT-7-49",
+      "toBook": "ACT",
+      "toPosition": 31882,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 33
+    },
+    {
+      "fromId": "ISA-66-22",
+      "fromBook": "ISA",
+      "fromPosition": 23276,
+      "toId": "REV-21-1",
+      "toBook": "REV",
+      "toPosition": 35769,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "ISA-66-24",
+      "fromBook": "ISA",
+      "fromPosition": 23278,
+      "toId": "MRK-9-45",
+      "toBook": "MRK",
+      "toPosition": 29300,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "JER-2-21",
+      "fromBook": "JER",
+      "fromPosition": 23318,
+      "toId": "MAT-21-33",
+      "toBook": "MAT",
+      "toPosition": 28576,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "JER-6-16",
+      "fromBook": "JER",
+      "fromPosition": 23437,
+      "toId": "MAT-11-29",
+      "toBook": "MAT",
+      "toPosition": 28206,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 59
+    },
+    {
+      "fromId": "JER-7-11",
+      "fromBook": "JER",
+      "fromPosition": 23462,
+      "toId": "LUK-19-46",
+      "toBook": "LUK",
+      "toPosition": 30493,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "JER-7-11",
+      "fromBook": "JER",
+      "fromPosition": 23462,
+      "toId": "MRK-11-17",
+      "toBook": "MRK",
+      "toPosition": 29373,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "JER-7-11",
+      "fromBook": "JER",
+      "fromPosition": 23462,
+      "toId": "MAT-21-13",
+      "toBook": "MAT",
+      "toPosition": 28556,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "JER-9-23",
+      "fromBook": "JER",
+      "fromPosition": 23530,
+      "toId": "1CO-1-31",
+      "toBook": "1CO",
+      "toPosition": 33108,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JER-9-23",
+      "fromBook": "JER",
+      "fromPosition": 23530,
+      "toId": "2CO-10-17",
+      "toBook": "2CO",
+      "toPosition": 33702,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JER-10-7",
+      "fromBook": "JER",
+      "fromPosition": 23540,
+      "toId": "REV-15-4",
+      "toBook": "REV",
+      "toPosition": 35665,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "JER-17-10",
+      "fromBook": "JER",
+      "fromPosition": 23699,
+      "toId": "REV-2-23",
+      "toBook": "REV",
+      "toPosition": 35454,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 30
+    },
+    {
+      "fromId": "JER-18-6",
+      "fromBook": "JER",
+      "fromPosition": 23722,
+      "toId": "ROM-9-20",
+      "toBook": "ROM",
+      "toPosition": 32889,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 27
+    },
+    {
+      "fromId": "JER-23-5",
+      "fromBook": "JER",
+      "fromPosition": 23821,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "JER-25-29",
+      "fromBook": "JER",
+      "fromPosition": 23895,
+      "toId": "1PE-4-17",
+      "toBook": "1PE",
+      "toPosition": 35176,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "JER-30-10",
+      "fromBook": "JER",
+      "fromPosition": 24009,
+      "toId": "LUK-1-70",
+      "toBook": "LUK",
+      "toPosition": 29679,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JER-31-15",
+      "fromBook": "JER",
+      "fromPosition": 24038,
+      "toId": "MAT-2-18",
+      "toBook": "MAT",
+      "toPosition": 27905,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 18
+    },
+    {
+      "fromId": "JER-31-31",
+      "fromBook": "JER",
+      "fromPosition": 24054,
+      "toId": "HEB-8-8",
+      "toBook": "HEB",
+      "toPosition": 34813,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "JER-31-33",
+      "fromBook": "JER",
+      "fromPosition": 24056,
+      "toId": "HEB-10-16",
+      "toBook": "HEB",
+      "toPosition": 34862,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 94
+    },
+    {
+      "fromId": "JER-31-34",
+      "fromBook": "JER",
+      "fromPosition": 24057,
+      "toId": "ACT-10-43",
+      "toBook": "ACT",
+      "toPosition": 32018,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "JER-51-8",
+      "fromBook": "JER",
+      "fromPosition": 24551,
+      "toId": "REV-14-8",
+      "toBook": "REV",
+      "toPosition": 35649,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "EZK-2-9",
+      "fromBook": "EZK",
+      "fromPosition": 25045,
+      "toId": "REV-1-5",
+      "toBook": "REV",
+      "toPosition": 35416,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-3-3",
+      "fromBook": "EZK",
+      "fromPosition": 25048,
+      "toId": "REV-10-9",
+      "toBook": "REV",
+      "toPosition": 35584,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "EZK-3-3",
+      "fromBook": "EZK",
+      "fromPosition": 25048,
+      "toId": "REV-10-10",
+      "toBook": "REV",
+      "toPosition": 35585,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "EZK-18-7",
+      "fromBook": "EZK",
+      "fromPosition": 25399,
+      "toId": "MAT-25-35",
+      "toBook": "MAT",
+      "toPosition": 28760,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "EZK-18-23",
+      "fromBook": "EZK",
+      "fromPosition": 25415,
+      "toId": "2PE-3-9",
+      "toBook": "2PE",
+      "toPosition": 35244,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "EZK-18-30",
+      "fromBook": "EZK",
+      "fromPosition": 25422,
+      "toId": "MAT-3-2",
+      "toBook": "MAT",
+      "toPosition": 27912,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "EZK-18-30",
+      "fromBook": "EZK",
+      "fromPosition": 25422,
+      "toId": "LUK-3-3",
+      "toBook": "LUK",
+      "toPosition": 29744,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-18-32",
+      "fromBook": "EZK",
+      "fromPosition": 25424,
+      "toId": "2PE-3-9",
+      "toBook": "2PE",
+      "toPosition": 35244,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 22
+    },
+    {
+      "fromId": "EZK-20-11",
+      "fromBook": "EZK",
+      "fromPosition": 25449,
+      "toId": "ROM-10-5",
+      "toBook": "ROM",
+      "toPosition": 32907,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "EZK-32-7",
+      "fromBook": "EZK",
+      "fromPosition": 25798,
+      "toId": "MAT-24-29",
+      "toBook": "MAT",
+      "toPosition": 28703,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "EZK-34-23",
+      "fromBook": "EZK",
+      "fromPosition": 25879,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-34-23",
+      "fromBook": "EZK",
+      "fromPosition": 25879,
+      "toId": "JHN-10-14",
+      "toBook": "JHN",
+      "toPosition": 31212,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-34-23",
+      "fromBook": "EZK",
+      "fromPosition": 25879,
+      "toId": "JHN-10-11",
+      "toBook": "JHN",
+      "toPosition": 31209,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "EZK-34-31",
+      "fromBook": "EZK",
+      "fromPosition": 25887,
+      "toId": "JHN-10-11",
+      "toBook": "JHN",
+      "toPosition": 31209,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "EZK-36-20",
+      "fromBook": "EZK",
+      "fromPosition": 25922,
+      "toId": "ROM-2-24",
+      "toBook": "ROM",
+      "toPosition": 32700,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "EZK-37-22",
+      "fromBook": "EZK",
+      "fromPosition": 25962,
+      "toId": "JHN-10-16",
+      "toBook": "JHN",
+      "toPosition": 31214,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "EZK-37-24",
+      "fromBook": "EZK",
+      "fromPosition": 25964,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-37-26",
+      "fromBook": "EZK",
+      "fromPosition": 25966,
+      "toId": "JHN-12-34",
+      "toBook": "JHN",
+      "toPosition": 31331,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-38-2",
+      "fromBook": "EZK",
+      "fromPosition": 25970,
+      "toId": "REV-20-7",
+      "toBook": "REV",
+      "toPosition": 35760,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-38-20",
+      "fromBook": "EZK",
+      "fromPosition": 25988,
+      "toId": "MAT-24-29",
+      "toBook": "MAT",
+      "toPosition": 28703,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "EZK-38-20",
+      "fromBook": "EZK",
+      "fromPosition": 25988,
+      "toId": "LUK-21-25",
+      "toBook": "LUK",
+      "toPosition": 30567,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DAN-2-22",
+      "fromBook": "DAN",
+      "fromPosition": 26323,
+      "toId": "1JN-1-6",
+      "toBook": "1JN",
+      "toPosition": 35259,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DAN-2-22",
+      "fromBook": "DAN",
+      "fromPosition": 26323,
+      "toId": "1CO-4-5",
+      "toBook": "1CO",
+      "toPosition": 33152,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "DAN-2-22",
+      "fromBook": "DAN",
+      "fromPosition": 26323,
+      "toId": "JHN-8-12",
+      "toBook": "JHN",
+      "toPosition": 31110,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "DAN-2-22",
+      "fromBook": "DAN",
+      "fromPosition": 26323,
+      "toId": "JHN-1-9",
+      "toBook": "JHN",
+      "toPosition": 30769,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "DAN-7-10",
+      "fromBook": "DAN",
+      "fromPosition": 26553,
+      "toId": "REV-5-11",
+      "toBook": "REV",
+      "toPosition": 35504,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "DAN-7-14",
+      "fromBook": "DAN",
+      "fromPosition": 26557,
+      "toId": "LUK-1-32",
+      "toBook": "LUK",
+      "toPosition": 29641,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DAN-9-24",
+      "fromBook": "DAN",
+      "fromPosition": 26622,
+      "toId": "MAT-24-15",
+      "toBook": "MAT",
+      "toPosition": 28689,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DAN-9-24",
+      "fromBook": "DAN",
+      "fromPosition": 26622,
+      "toId": "JHN-1-45",
+      "toBook": "JHN",
+      "toPosition": 30805,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "DAN-10-21",
+      "fromBook": "DAN",
+      "fromPosition": 26646,
+      "toId": "REV-12-7",
+      "toBook": "REV",
+      "toPosition": 35612,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "DAN-12-1",
+      "fromBook": "DAN",
+      "fromPosition": 26692,
+      "toId": "REV-12-7",
+      "toBook": "REV",
+      "toPosition": 35612,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 6
+    },
+    {
+      "fromId": "DAN-12-2",
+      "fromBook": "DAN",
+      "fromPosition": 26693,
+      "toId": "MAT-25-46",
+      "toBook": "MAT",
+      "toPosition": 28771,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "DAN-12-2",
+      "fromBook": "DAN",
+      "fromPosition": 26693,
+      "toId": "JHN-5-29",
+      "toBook": "JHN",
+      "toPosition": 30955,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 28
+    },
+    {
+      "fromId": "DAN-12-7",
+      "fromBook": "DAN",
+      "fromPosition": 26698,
+      "toId": "REV-10-5",
+      "toBook": "REV",
+      "toPosition": 35580,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "HOS-1-10",
+      "fromBook": "HOS",
+      "fromPosition": 26821,
+      "toId": "ROM-9-26",
+      "toBook": "ROM",
+      "toPosition": 32895,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 38
+    },
+    {
+      "fromId": "HOS-2-24",
+      "fromBook": "HOS",
+      "fromPosition": 26846,
+      "toId": "1PE-2-10",
+      "toBook": "1PE",
+      "toPosition": 35122,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "HOS-2-24",
+      "fromBook": "HOS",
+      "fromPosition": 26846,
+      "toId": "ROM-9-25",
+      "toBook": "ROM",
+      "toPosition": 32894,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "HOS-6-3",
+      "fromBook": "HOS",
+      "fromPosition": 26888,
+      "toId": "1CO-15-4",
+      "toBook": "1CO",
+      "toPosition": 33436,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "HOS-6-6",
+      "fromBook": "HOS",
+      "fromPosition": 26891,
+      "toId": "MAT-12-17",
+      "toBook": "MAT",
+      "toPosition": 28224,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "HOS-6-6",
+      "fromBook": "HOS",
+      "fromPosition": 26891,
+      "toId": "MAT-9-13",
+      "toBook": "MAT",
+      "toPosition": 28110,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 53
+    },
+    {
+      "fromId": "HOS-10-8",
+      "fromBook": "HOS",
+      "fromPosition": 26951,
+      "toId": "REV-6-16",
+      "toBook": "REV",
+      "toPosition": 35523,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "HOS-10-8",
+      "fromBook": "HOS",
+      "fromPosition": 26951,
+      "toId": "LUK-23-30",
+      "toBook": "LUK",
+      "toPosition": 30681,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "HOS-11-1",
+      "fromBook": "HOS",
+      "fromPosition": 26959,
+      "toId": "MAT-2-15",
+      "toBook": "MAT",
+      "toPosition": 27902,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 15
+    },
+    {
+      "fromId": "HOS-13-14",
+      "fromBook": "HOS",
+      "fromPosition": 26998,
+      "toId": "HEB-2-14",
+      "toBook": "HEB",
+      "toPosition": 34704,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "HOS-13-14",
+      "fromBook": "HOS",
+      "fromPosition": 26998,
+      "toId": "1CO-15-54",
+      "toBook": "1CO",
+      "toPosition": 33486,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "JOL-2-10",
+      "fromBook": "JOL",
+      "fromPosition": 27039,
+      "toId": "MRK-13-24",
+      "toBook": "MRK",
+      "toPosition": 29457,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "JOL-2-10",
+      "fromBook": "JOL",
+      "fromPosition": 27039,
+      "toId": "LUK-21-25",
+      "toBook": "LUK",
+      "toPosition": 30567,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 0
+    },
+    {
+      "fromId": "JOL-2-10",
+      "fromBook": "JOL",
+      "fromPosition": 27039,
+      "toId": "MAT-24-29",
+      "toBook": "MAT",
+      "toPosition": 28703,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "JOL-2-13",
+      "fromBook": "JOL",
+      "fromPosition": 27042,
+      "toId": "JHN-4-2",
+      "toBook": "JHN",
+      "toPosition": 30874,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOL-2-14",
+      "fromBook": "JOL",
+      "fromPosition": 27043,
+      "toId": "JHN-3-9",
+      "toBook": "JHN",
+      "toPosition": 30845,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOL-2-28",
+      "fromBook": "JOL",
+      "fromPosition": 27057,
+      "toId": "ACT-2-17",
+      "toBook": "ACT",
+      "toPosition": 31683,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 139
+    },
+    {
+      "fromId": "JOL-2-31",
+      "fromBook": "JOL",
+      "fromPosition": 27060,
+      "toId": "ACT-2-10",
+      "toBook": "ACT",
+      "toPosition": 31676,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JOL-2-31",
+      "fromBook": "JOL",
+      "fromPosition": 27060,
+      "toId": "LUK-21-25",
+      "toBook": "LUK",
+      "toPosition": 30567,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 5
+    },
+    {
+      "fromId": "JOL-2-31",
+      "fromBook": "JOL",
+      "fromPosition": 27060,
+      "toId": "MAT-24-29",
+      "toBook": "MAT",
+      "toPosition": 28703,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "JOL-2-32",
+      "fromBook": "JOL",
+      "fromPosition": 27061,
+      "toId": "ROM-10-13",
+      "toBook": "ROM",
+      "toPosition": 32915,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 19
+    },
+    {
+      "fromId": "JOL-3-13",
+      "fromBook": "JOL",
+      "fromPosition": 27074,
+      "toId": "REV-14-15",
+      "toBook": "REV",
+      "toPosition": 35656,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "AMO-5-15",
+      "fromBook": "AMO",
+      "fromPosition": 27156,
+      "toId": "ROM-12-9",
+      "toBook": "ROM",
+      "toPosition": 32968,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 10
+    },
+    {
+      "fromId": "AMO-5-25",
+      "fromBook": "AMO",
+      "fromPosition": 27166,
+      "toId": "ACT-7-42",
+      "toBook": "ACT",
+      "toPosition": 31875,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "AMO-6-1",
+      "fromBook": "AMO",
+      "fromPosition": 27169,
+      "toId": "LUK-6-24",
+      "toBook": "LUK",
+      "toPosition": 29886,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "AMO-9-11",
+      "fromBook": "AMO",
+      "fromPosition": 27225,
+      "toId": "ACT-15-16",
+      "toBook": "ACT",
+      "toPosition": 32173,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "OBA-1-8",
+      "fromBook": "OBA",
+      "fromPosition": 27237,
+      "toId": "1CO-1-19",
+      "toBook": "1CO",
+      "toPosition": 33096,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JON-2-1",
+      "fromBook": "JON",
+      "fromPosition": 27267,
+      "toId": "MAT-12-40",
+      "toBook": "MAT",
+      "toPosition": 28247,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JON-2-1",
+      "fromBook": "JON",
+      "fromPosition": 27267,
+      "toId": "MAT-16-4",
+      "toBook": "MAT",
+      "toPosition": 28394,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JON-2-1",
+      "fromBook": "JON",
+      "fromPosition": 27267,
+      "toId": "1CO-15-4",
+      "toBook": "1CO",
+      "toPosition": 33436,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JON-2-1",
+      "fromBook": "JON",
+      "fromPosition": 27267,
+      "toId": "LUK-11-30",
+      "toBook": "LUK",
+      "toPosition": 30151,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "JON-3-5",
+      "fromBook": "JON",
+      "fromPosition": 27282,
+      "toId": "MAT-12-41",
+      "toBook": "MAT",
+      "toPosition": 28248,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 7
+    },
+    {
+      "fromId": "JON-3-5",
+      "fromBook": "JON",
+      "fromPosition": 27282,
+      "toId": "LUK-11-32",
+      "toBook": "LUK",
+      "toPosition": 30153,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "MIC-4-7",
+      "fromBook": "MIC",
+      "fromPosition": 27346,
+      "toId": "LUK-1-32",
+      "toBook": "LUK",
+      "toPosition": 29641,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "MIC-5-2",
+      "fromBook": "MIC",
+      "fromPosition": 27354,
+      "toId": "MAT-2-6",
+      "toBook": "MAT",
+      "toPosition": 27893,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 63
+    },
+    {
+      "fromId": "MIC-5-2",
+      "fromBook": "MIC",
+      "fromPosition": 27354,
+      "toId": "JHN-7-42",
+      "toBook": "JHN",
+      "toPosition": 31087,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 30
+    },
+    {
+      "fromId": "MIC-6-8",
+      "fromBook": "MIC",
+      "fromPosition": 27374,
+      "toId": "MAT-23-23",
+      "toBook": "MAT",
+      "toPosition": 28658,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "MIC-7-6",
+      "fromBook": "MIC",
+      "fromPosition": 27388,
+      "toId": "MAT-10-21",
+      "toBook": "MAT",
+      "toPosition": 28156,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "MIC-7-18",
+      "fromBook": "MIC",
+      "fromPosition": 27400,
+      "toId": "ACT-10-43",
+      "toBook": "ACT",
+      "toPosition": 32018,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NAM-1-7",
+      "fromBook": "NAM",
+      "fromPosition": 27409,
+      "toId": "2TI-1-9",
+      "toBook": "2TI",
+      "toPosition": 34531,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "NAM-1-15",
+      "fromBook": "NAM",
+      "fromPosition": 27417,
+      "toId": "ROM-10-15",
+      "toBook": "ROM",
+      "toPosition": 32917,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 21
+    },
+    {
+      "fromId": "HAB-1-5",
+      "fromBook": "HAB",
+      "fromPosition": 27454,
+      "toId": "ACT-13-34",
+      "toBook": "ACT",
+      "toPosition": 32112,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "HAB-2-4",
+      "fromBook": "HAB",
+      "fromPosition": 27470,
+      "toId": "JHN-3-36",
+      "toBook": "JHN",
+      "toPosition": 30872,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 13
+    },
+    {
+      "fromId": "HAB-2-4",
+      "fromBook": "HAB",
+      "fromPosition": 27470,
+      "toId": "ROM-1-17",
+      "toBook": "ROM",
+      "toPosition": 32661,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 64
+    },
+    {
+      "fromId": "HAB-2-4",
+      "fromBook": "HAB",
+      "fromPosition": 27470,
+      "toId": "HEB-10-38",
+      "toBook": "HEB",
+      "toPosition": 34884,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 49
+    },
+    {
+      "fromId": "HAB-2-4",
+      "fromBook": "HAB",
+      "fromPosition": 27470,
+      "toId": "GAL-3-11",
+      "toBook": "GAL",
+      "toPosition": 33826,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 43
+    },
+    {
+      "fromId": "HAG-2-7",
+      "fromBook": "HAG",
+      "fromPosition": 27579,
+      "toId": "HEB-12-26",
+      "toBook": "HEB",
+      "toPosition": 34951,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ZEC-3-8",
+      "fromBook": "ZEC",
+      "fromPosition": 27638,
+      "toId": "LUK-1-78",
+      "toBook": "LUK",
+      "toPosition": 29687,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "ZEC-6-12",
+      "fromBook": "ZEC",
+      "fromPosition": 27677,
+      "toId": "LUK-1-78",
+      "toBook": "LUK",
+      "toPosition": 29687,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 2
+    },
+    {
+      "fromId": "ZEC-7-9",
+      "fromBook": "ZEC",
+      "fromPosition": 27689,
+      "toId": "MAT-23-23",
+      "toBook": "MAT",
+      "toPosition": 28658,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "ZEC-8-16",
+      "fromBook": "ZEC",
+      "fromPosition": 27710,
+      "toId": "EPH-4-25",
+      "toBook": "EPH",
+      "toPosition": 34010,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 12
+    },
+    {
+      "fromId": "ZEC-9-9",
+      "fromBook": "ZEC",
+      "fromPosition": 27726,
+      "toId": "MAT-21-5",
+      "toBook": "MAT",
+      "toPosition": 28548,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 46
+    },
+    {
+      "fromId": "ZEC-10-11",
+      "fromBook": "ZEC",
+      "fromPosition": 27745,
+      "toId": "REV-16-12",
+      "toBook": "REV",
+      "toPosition": 35681,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 3
+    },
+    {
+      "fromId": "ZEC-11-12",
+      "fromBook": "ZEC",
+      "fromPosition": 27758,
+      "toId": "MAT-27-9",
+      "toBook": "MAT",
+      "toPosition": 28855,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "ZEC-12-10",
+      "fromBook": "ZEC",
+      "fromPosition": 27773,
+      "toId": "JHN-19-37",
+      "toBook": "JHN",
+      "toPosition": 31579,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "MAL-1-2",
+      "fromBook": "MAL",
+      "fromPosition": 27809,
+      "toId": "ROM-9-13",
+      "toBook": "ROM",
+      "toPosition": 32882,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "MAL-2-10",
+      "fromBook": "MAL",
+      "fromPosition": 27831,
+      "toId": "MAT-23-9",
+      "toBook": "MAT",
+      "toPosition": 28644,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "MAL-2-10",
+      "fromBook": "MAL",
+      "fromPosition": 27831,
+      "toId": "EPH-4-6",
+      "toBook": "EPH",
+      "toPosition": 33991,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 9
+    },
+    {
+      "fromId": "MAL-3-1",
+      "fromBook": "MAL",
+      "fromPosition": 27839,
+      "toId": "LUK-7-27",
+      "toBook": "LUK",
+      "toPosition": 29938,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 8
+    },
+    {
+      "fromId": "MAL-3-1",
+      "fromBook": "MAL",
+      "fromPosition": 27839,
+      "toId": "MRK-1-2",
+      "toBook": "MRK",
+      "toPosition": 28934,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 11
+    },
+    {
+      "fromId": "MAL-3-1",
+      "fromBook": "MAL",
+      "fromPosition": 27839,
+      "toId": "LUK-1-17",
+      "toBook": "LUK",
+      "toPosition": 29626,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "MAL-3-1",
+      "fromBook": "MAL",
+      "fromPosition": 27839,
+      "toId": "MAT-11-10",
+      "toBook": "MAT",
+      "toPosition": 28187,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 4
+    },
+    {
+      "fromId": "MAL-3-13",
+      "fromBook": "MAL",
+      "fromPosition": 27851,
+      "toId": "JHN-21-14",
+      "toBook": "JHN",
+      "toPosition": 31629,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "MAL-4-2",
+      "fromBook": "MAL",
+      "fromPosition": 27858,
+      "toId": "LUK-1-78",
+      "toBook": "LUK",
+      "toPosition": 29687,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 29
+    },
+    {
+      "fromId": "MAL-4-5",
+      "fromBook": "MAL",
+      "fromPosition": 27861,
+      "toId": "MRK-9-10",
+      "toBook": "MRK",
+      "toPosition": 29265,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    },
+    {
+      "fromId": "MAL-4-5",
+      "fromBook": "MAL",
+      "fromPosition": 27861,
+      "toId": "LUK-1-17",
+      "toBook": "LUK",
+      "toPosition": 29626,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 29
+    },
+    {
+      "fromId": "MAL-4-5",
+      "fromBook": "MAL",
+      "fromPosition": 27861,
+      "toId": "MAT-17-10",
+      "toBook": "MAT",
+      "toPosition": 28428,
+      "sources": [
+        "TSK",
+        "Haydock"
+      ],
+      "votes": 20
+    },
+    {
+      "fromId": "1MA-4-59",
+      "fromBook": "1MA",
+      "fromPosition": 13869,
+      "toId": "JHN-10-22",
+      "toBook": "JHN",
+      "toPosition": 31220,
+      "sources": [
+        "Haydock"
+      ],
+      "votes": null
+    }
+  ]
+}

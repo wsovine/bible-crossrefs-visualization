@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bible Cross-References: Old and New Testament Connections</title>
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- Persistent visualization container -->
+    <figure class="scroll__graphic scroll__graphic--fixed">
+        <svg id="arc-viz"></svg>
+    </figure>
+
+    <!-- Scrollable text content -->
+    <main class="scroll__content">
+        <!-- Section 1: Introduction -->
+        <section id="intro" class="scroll-section">
+            <div class="step" data-step="intro-1">
+                <h1>Bible Cross-References</h1>
+                <p class="quote">"The New Testament lies hidden in the Old and the Old Testament is revealed in the New."</p>
+                <p class="attribution">— Saint Augustine</p>
+            </div>
+            <div class="step" data-step="intro-2">
+                <h2>About This Project</h2>
+                <p>This visualization explores the relationship between the Old and New Testaments through the use of cross-references.</p>
+                <p>The visualization is interactive and allows you to scroll through the Old and New Testaments to see how the cross-references connect the two.</p>
+            </div>
+        </section>
+
+        <!-- Section 2: Old Testament Scroll -->
+        <section id="ot-scroll" class="scroll-section">
+            <div class="step" data-step="ot-intro">
+                <h2>Old Testament to New</h2>
+                <p>As we scroll through the Old Testament, watch the arcs reach forward to their fulfillment in the New Testament.</p>
+            </div>
+            <!-- OT book steps will be added dynamically -->
+        </section>
+
+        <!-- Section 3: New Testament Scroll -->
+        <section id="nt-scroll" class="scroll-section">
+            <div class="step" data-step="nt-intro">
+                <h2>New Testament to Old</h2>
+                <p>Now see how the New Testament authors constantly looked back to the Hebrew Scriptures.</p>
+            </div>
+            <!-- NT book steps will be added dynamically -->
+        </section>
+
+        <!-- Section 4: Data Sources -->
+        <section id="sources" class="scroll-section">
+            <div class="step" data-step="sources-1">
+                <h2>Data Sources</h2>
+                <p>This visualization uses the original 73-book Canon that was utilized by the early church and officially canonized by the Council of Rome in 382 AD.</p>
+                <p>Inspiration was drawn from <a href="https://www.openbible.info/blog/2010/04/bible-cross-references-visualization/" target="_blank" rel="noopener">OpenBible.info's cross-reference visualization</a>, with the key difference being the data sources that this visualization utilizes.</p>
+                <p>The bible translation that verses are drawn from is the Catholic Public Domain Version.</p>
+                <p>Cross-references are drawn from the Haydock Catholic Bible Commentary (1811-1859), offering a perspective grounded in patristic tradition.</p>
+                <p>These sources were selected for the easy availability given they are in the public domain. The cross-references are not exhaustive and I plan to expand this visualization in the future with more cross-reference sources.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Scripts -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/scrollama@3.2.0/build/scrollama.min.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>
