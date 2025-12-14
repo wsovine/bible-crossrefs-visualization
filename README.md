@@ -1,22 +1,45 @@
-# Overall Idea / Brainstorming
-I would like to create a first draft of a scrollytelling webpage. The basic premise behind the visualizations is what was created in notebooks/02_exploration/03_arc_visualization.ipynb
+# Bible Cross-References Visualization
 
-I want to take users through a visual journey that draws the arcs from old testament to new and new testament to old.
+An interactive scrollytelling visualization showing cross-references between the Old and New Testaments.
 
-I would love the scroll to be like a timeline (so maybe we need years added into the Graph DB?). As the user scrolls starting with Genesis, the visual could draw the arcs to the new testament. Along the way, any dense arcs landing in certain new testament themes could be highlighted with the verses or themes that are found in that endpoint.
+**Live Site:** [wsovine.github.io/bible-crossrefs-visualization](https://wsovine.github.io/bible-crossrefs-visualization)
 
-## Potential Useful Libraries
-scrollama - https://github.com/russellsamora/scrollama
+## About
 
-## Additions needed for graph database
-As the storyboard/plan is created, we may come across some additional data that is needed. Document that here and I will work to bring that data in as a parallel fork to this scrollytelling project.
+This visualization draws arc connections between Old Testament and New Testament books based on cross-reference data from the Haydock Catholic Bible Commentary. As you scroll through each book, the arcs highlight connections to the opposite testament, with a verse carousel showing the most referenced passages.
 
-# Story
-1. Intro - review my decisions in the main project README, give a background for the project and why I'm using the data sources that I am.
-2. Old Testament Scroll - draw arcs from old to new testament while moving through the books and years
-3. New Testament Scroll - draw arcs from the new to old testament while moving through the books and years
-4. Key Councils and Dates - when we get to certain dates, like when the bible was officially canonized, we can maybe glow up all the 73 books that were canonized. Maybe also dates around when the bible was translated into major languages.
-5. Protestant Reformation - when we get to the protestant reformation, we will do a sad dark dropout of the 7 books that protestants lose out on
+**Data highlights:**
+- 73 books (Catholic canon including Deuterocanonical books)
+- 1,534 cross-testament references (754 OT→NT, 780 NT→OT)
+- Full verse text from Haydock Commentary
 
-# Key implementation approach
-This project will be a lot of trial and error and recursive refining. Let's pause often to test small additions and updates.
+## Tech Stack
+
+- **D3.js v7** - Arc visualization
+- **Scrollama 3.2.0** - Scroll-driven interactions
+- **Vanilla JS/CSS** - No build tools or frameworks
+
+## Project Structure
+
+```
+├── index.html
+├── css/
+│   ├── variables.css    # Design tokens
+│   ├── main.css         # Core styles
+│   └── responsive.css   # Mobile breakpoints
+├── js/
+│   ├── main.js          # Entry point, Scrollama setup
+│   ├── arc-renderer.js  # D3 visualization
+│   ├── data-loader.js   # JSON loading
+│   └── scroll-sections.js
+├── data/
+│   ├── books.json
+│   ├── crossrefs-ot-to-nt.json
+│   ├── crossrefs-nt-to-ot.json
+│   └── top-verses.json
+└── export/              # Python scripts for Neo4j data export
+```
+
+## Part of LogosGraph
+
+This visualization is part of the [LogosGraph](https://github.com/wsovine/LogosGraph) project, a Neo4j knowledge graph for exploring biblical cross-references.
